@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="section-3a" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>MATH122 - Calculus 2</title>
+  <introduction>
+    <p>
+    This course will cover topics in (official course catalog description)
+    techniques of integration, applications of integration, improper integrals,
+    numerical integration, the calculus of parametric curves,
+    and infinite series and sequences.
+    </p>
+  </introduction>
+  <subsection>
+    <title>Why study calculus?</title>
+    <p>
+      This rigorous mathematical subject consists of a basic mathematical tool kit for dealing with
+      processes that change continuously.
+      Part of the reason that calculus turns out to be so useful is that the details of the process
+      turn out not to matter so much -- all that matters is that the process is continuous.
+      In fact, if the increments are small enough, discrete processes can sometimes be approximated as
+      continuous and treated using the techniques of calculus.
+      More specifically, Calculus is the story of infinitely improving approximations concerned with
+      two historical problems:
+      <ol>
+        <li>The slope of a "curvy line" at a point.</li>
+        <li>The area beneath a "curvy line".</li>
+      </ol>
+      Miraculously, these two problems, which may seem barely related except for the type of line they
+      seek to study, turn out to be deeply intertwined.
+      This semester, we will primarily focus on the second problem, but due to the dual nature of these
+      problems the other is necessary and a skill which you hopefully developed during Calculus I.
+  </p>
+  <p>
+    In order to do well in <emph>MATH122</emph>, you need to work on developing both conceptual understanding and
+    algebraic fluency.
+    Conceptual understanding is necessary as memorized facts are not much help if you do not know how to use them.
+    Algebraic fluency is required as knowing the basic concepts is not very helpful if you are unable to easily
+    use them because your knowledge is not built on a firm foundation of the governing principles.
+  </p>
+  <p>
+    By fluency, I mean that you can generally use them
+    without thinking about them. Fluency is defined as the ability to speak or write a language <alert>easily</alert> and 
+    <alert>accurately</alert>. Similar to your fluency in your native language, where you likely are fluent in 10000-20000 words,
+    you are expected to be fluent in a number of "mathematical rules" which you have learned over the last several years.
+    Note, there is a full inventory of the algebraic, trigonometric, and Calculus I skills with which you need to be fluent
+    in (TODO:INSERT REFERENCE HERE ONCE IT IS PORTED TO PRETEXT). 
+  </p>
+  </subsection>
+  <subsection>
+    <title>Learning Outcomes</title>
+    <p>Upon completion of this course students will have demonstrated
+      <ol>
+        <li>a working knowledge of Riemann integration theory and several specific applications. 
+          This will build off material from <emph>MATH121: Calculus I</emph>.</li>
+        <li>a working knowledge of sequences, series, and their relevance to calculus.</li>
+        <li>their ability to memorize, derive, and practice facts (the derivatives and 
+          antiderivatives of basic functions, for instance) and fundamental theorems.</li>
+        <li>understanding what is going on behind the symbols by developing the patterns
+          of thought and the problem-solving skills needed when dealing with problems involving
+          continuous change and difficult integrals. If you limit yourself to memorizing facts
+          and formulas, you will miss out on this very important part of the course, which makes
+          calculus so important for so many application areas.
+        </li>
+        <li>team work skills by collaborating within a small group, towards completion of a
+          common task or goal.</li>
+      </ol>
+    </p>
+  </subsection>
+</section>

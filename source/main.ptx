@@ -2,21 +2,18 @@
 <pretext xml:lang="en-US" xmlns:xi="http://www.w3.org/2001/XInclude">
 
   <docinfo>
-
-    <document-id>authorslastnamelowercase-ShortTitleCamelCase</document-id>
-
-    <macros>\newcommand{\foo}{b^{ar}}</macros>
-    <latex-image-preamble>\usepackage{tikz}</latex-image-preamble>
+    <document-id>hollingsworth-Main</document-id>
   </docinfo>
 
   <article xml:id="shorttitlelowercase">
-    <title>The title of my groundbreaking paper</title>
+    <title>Course Syllabi, Fall 2025</title>
 
     <xi:include href="./frontmatter.ptx" />
     
-    <xi:include href="./introduction.ptx" />
-    <xi:include href="./section-1.ptx" />
-    <xi:include href="./section-2.ptx" />
+    <xi:include href="./section-0-Contact-Info.ptx" />
+    <xi:include href="./section-1-Welcome-To-Course.ptx" />
+    <!-- <xi:include href="./section-2-University-Resources.ptx" /> -->
+    <xi:include href="./section-3a-M122-Calc2.ptx" />
   </article>
 
 </pretext>

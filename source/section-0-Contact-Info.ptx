@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="section-0" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Contact Information</title>
+  
+  <p>
+    <table>
+    <tabular halign="center">
+      <row>
+        <cell halign="right">Professor:</cell>
+        <cell halign="left">Kris Hollingsworth, Ph.D (Dr. <m>\mathcal H</m>)</cell>
+      </row>
+      <row>
+        <cell halign="right">Preferred Pronouns:</cell>
+        <cell halign="left">They/Them</cell>
+      </row>
+      <row>
+        <cell halign="right">Office:</cell>
+        <cell halign="left">Wissink Hall (WH) 253</cell>
+      </row>
+      <row>
+        <cell halign="right">Email:</cell>
+        <cell halign="left">kristopher.hollingsworth at mnsu.edu</cell>
+      </row>
+      <row>
+        <cell halign="right">Phone:</cell>
+        <cell halign="left">507.389.6505</cell>
+      </row>
+    </tabular>
+  </table>
+</p>
+
+<p>
+  <table>
+    <title>Office Hours</title>
+    <tabular>
+      <row>
+        <cell halign="right">Mondays:</cell>
+        <cell halign="left">12:45-1:45pm</cell>
+      </row>
+      <row>
+        <cell halign="right">Tuesdays:</cell>
+        <cell halign="left">10:15am-1:45pm</cell>
+      </row>
+      <row>
+        <cell halign="right">Thursdays:</cell>
+        <cell halign="left">10:15am-1:45pm</cell>
+      </row>
+      <row>
+        <cell halign="right">Fridays:</cell>
+        <cell halign="left">12:45-1:45pm</cell>
+      </row>
+    </tabular>
+  </table>
+
+  Good ways to use office hours:
+  <ul>
+    <li>Get help on assigned homework problems.</li>
+    <li>Seek clarification on material presented during class.</li>
+    <li>Get academic/career advice.</li>
+    <li>Discuss connections between current material and material from other courses.</li>
+    <li>Get advice on time management or effective study methods for the course.</li>
+  </ul>
+</p>
+
+</section>
