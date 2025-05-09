@@ -8,5 +8,7 @@
       stated otherwise.
     </p>
   </introduction>
+  <xi:include href="./UniversityPolicies/subsec-02.ptx" /> <!--Credit Hour Policies-->
   <xi:include href="./UniversityPolicies/subsec-01.ptx" /> <!--Grading Information-->
+  <xi:include href="./UniversityPolicies/subsec-03.ptx" /> <!--Academic Honesty-->
 </section>
