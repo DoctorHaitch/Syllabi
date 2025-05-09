@@ -15,8 +15,9 @@
     <!-- <xi:include href="./section-2-University-Resources.ptx" /> -->
     <xi:include href="./section-3a-M122-Calc2.ptx" />
     <xi:include href="./section-4-TipsForSuccess.ptx" />
-    <!-- <xi:include href="./section-5-University-Policies.ptx" /> -->
-    <xi:include href="./section-6-About-Instructor.ptx" />
+    <xi:include href="./section-5-StudentResources.ptx" />
+    <xi:include href="./section-6-UniversityPolicies.ptx" />
+    <xi:include href="./section-7-About-Instructor.ptx" />
   </article>
 
 </pretext>

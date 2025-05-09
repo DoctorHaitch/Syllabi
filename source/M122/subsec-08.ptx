@@ -1,0 +1,66 @@
+<subsection>
+  <title>Suggested Textbooks</title>
+
+  <p>
+    The textbook officially adopted by the department for this course is:
+  </p>
+  <ul>
+    <li>
+      <p>
+        <em>Essential Calculus: Early Transcendentals</em> by James Stewart, <m>2^{\textrm{nd}}</m> edition.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>ISBN</alert>: 978-1133112280
+      </p>
+    </li>
+  </ul>
+
+  <p>
+    However, since the required practice will be assigned directly to you,
+    almost any Calculus textbook will suffice. This includes any edition of Stewart’s texts,
+    freely available <alert>Open Educational Resource</alert> (OER) options from sites like OpenStax, and others.
+    The most important consideration is the <em>order</em> of topics.
+    For example, Stewart’s textbooks typically present advanced integration techniques before the applications of integration,
+    while this course takes the reverse approach—motivating techniques through early applications.
+  </p>
+
+  <p>
+    A textbook that follows a similar order to this course is <em>Calculus</em> by Larson and Edwards
+    (currently in its 12th edition, though any edition will work).
+    Students looking for an affordable physical textbook might consider an older edition of Larson and Edwards.
+  </p>
+
+  <p>
+    Another strong and inexpensive alternative closely aligned with the departmental textbook is:
+  </p>
+
+  <ul>
+    <li>
+      <p>
+        <url href="http://www.apexcalculus.com/">APEX Calculus</url> by Gregory Hartman.
+      </p>
+    </li>
+    <li>
+      <p>
+        <alert>ISBN</alert>: 978-1719263382
+      </p>
+    </li>
+  </ul>
+
+  <p>
+    This book is freely available online and as a downloadable PDF.
+    Print copies can typically be purchased for $15–$20 via Amazon.
+    We will primarily cover content from Calculus 2, with a few sections drawn from Calculus 3.
+    If you prefer a printed textbook, APEX Calculus Volume 2 is likely sufficient;
+    the few Calculus 3 topics we cover can be accessed digitally.
+  </p>
+  <remark>
+    <p>
+    Please be aware, that if you continue into Calculus 3, you may still be required to purchase the
+    current edition of Stewart's Calculus to obtain access to the digital homework system used by other instructors.
+    These alternatives are provided in this section as a low-cost alternative to Stewart's Calculus.
+    </p>
+  </remark>
+</subsection>

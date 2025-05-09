@@ -1,0 +1,101 @@
+<subsection>
+  <title>University Grading Policy</title>
+
+  <p>
+    A student's work in any course will be evaluated to align with the following university grade system
+  </p>
+
+  <tabular>
+    <col width="10%" top="major"/>
+    <col width="15%" top="major"/>
+    <col width="75%" top="major"/>
+    <row header="yes" bottom="minor">
+        <cell colspan="3"><em>Undergraduate Grading</em></cell>
+    </row>
+    <row header="yes" bottom="major">
+      <cell>Mark</cell>
+      <cell>University Description</cell>
+      <cell>Detail</cell>
+    </row>
+    <row bottom="minor">
+      <cell>A</cell>
+      <cell halign="center"><p>Superior level of performance</p></cell>
+      <cell halign="center"><p>Demonstrates mastery of the course material and consistently exceeds course expectations.</p></cell>
+    </row>
+    <row bottom="minor">
+      <cell>B</cell>
+      <cell halign="center"><p>Above-average level of performance</p></cell>
+      <cell halign="center"><p>Shows a strong understanding of the material and meets the course objectives.</p></cell>
+    </row>
+    <row bottom="minor">
+      <cell>C</cell>
+      <cell halign="center"><p>Average level of performance</p></cell>
+      <cell halign="center"><p>Indicates a satisfactory understanding of the course material and meets the basic expectations.</p></cell>
+    </row>
+    <row bottom="minor">
+      <cell>D</cell>
+      <cell halign="center"><p>Below-average level of performance</p></cell>
+      <cell halign="center"><p>Student has not adequately mastered the material or has not met course expectations sufficiently.</p></cell>
+    </row>
+    <row bottom="major">
+      <cell>F</cell>
+      <cell halign="center"><p>Failing level of performance</p></cell>
+      <cell halign="center"><p>Indicates failure to meet the course requirements and a lack of understanding of the material.</p></cell>
+    </row>
+  </tabular>
+
+  <tabular>
+    <col width="10%" top="major"/>
+    <col width="15%" top="major"/>
+    <col width="75%" top="major"/>
+    <row header="yes" bottom="minor">
+        <cell colspan="3"><em>Graduate Grading</em></cell>
+    </row>
+    <row header="yes" bottom="major">
+      <cell>Mark</cell>
+      <cell>University Description</cell>
+      <cell>Detail</cell>
+    </row>
+    <row bottom="minor">
+      <cell>A</cell>
+      <cell halign="center"><p>Superior level of performance</p></cell>
+      <cell halign="center"><p>Demonstrates mastery of the course material and consistently exceeds course expectations.</p></cell>
+    </row>
+    <row bottom="minor">
+      <cell>B</cell>
+      <cell halign="center"><p>Above-average level of performance</p></cell>
+      <cell halign="center"><p>Shows a strong understanding of the material and meets the course objectives.</p></cell>
+    </row>
+    <row bottom="minor">
+      <cell>C</cell>
+      <cell halign="center"><p>Below-average level of performance</p></cell>
+      <cell halign="center"><p>Indicates a satisfactory understanding of the course material and meets the basic expectations.</p></cell>
+    </row>
+    <row bottom="minor">
+      <cell>D</cell>
+      <cell halign="center"><p>Unacceptable level of performance</p></cell>
+      <cell halign="center"><p>Student has not adequately mastered the material or has not met course expectations sufficiently.</p></cell>
+    </row>
+    <row bottom="major">
+      <cell>F</cell>
+      <cell halign="center"><p>Failing level of performance</p></cell>
+      <cell halign="center"><p>Indicates failure to meet the course requirements and a lack of understanding of the material.</p></cell>
+    </row>
+  </tabular>
+
+  <p>
+    The grade of <alert>Incomplete</alert> (I) is reserved for special cases.
+    A student and instructor must complete and sign an <alert>Incomplete Contract</alert>
+    that specifies the assigned grade of "I" for the course and outlines requirements for its completion.
+  </p>
+
+  <p>
+    The full university grading policy is available at
+  </p>
+
+  <p>
+    <url href="https://admin.mnsu.edu/organizational-information/policies-procedures/university-policies/grading/">
+      https://admin.mnsu.edu/organizational-information/policies-procedures/university-policies/grading/
+    </url>
+  </p>
+</subsection>

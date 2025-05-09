@@ -1,0 +1,148 @@
+<subsection>
+    <title>Subsequent Courses and Programs</title>
+    <p>
+      To give a sense of the scale, scope, and importance of Calculus II, this
+      is the current list of courses which require Calculus II with a 'C' or better
+      as an entry requirement. Note, for Computer Science, many of your classes list
+      <em>MATH247: Linear Algebra</em>, which is dependent on Calculus II. This is
+      likely true for other programs as well, and I'd like to get a similar list for
+      <em>MATH247</em> in the near future.
+    </p>
+    <p>
+      <tabular>
+        <row header="yes" bottom="major">
+          <cell halign="left">Course</cell>
+          <cell halign="left">Title</cell>
+          <cell />
+          <cell halign="left">Course</cell>
+          <cell halign="left">Title</cell>
+        </row>
+        <row>
+          <cell halign="left">AST225</cell>
+          <cell halign="left">Astronomy/Astrophysics II</cell>
+          <cell />
+          <cell halign="left">MATH290</cell>
+          <cell halign="left">Foundations of Mathematics</cell>
+        </row>
+        <row>
+          <cell halign="left">CHEM101</cell>
+          <cell halign="left">General Chem Skills</cell>
+          <cell />
+          <cell halign="left">MATH321</cell>
+          <cell halign="left">Ordinary Differential Equations</cell>
+        </row>
+        <row>
+          <cell halign="left">CHEM190</cell>
+          <cell halign="left">Learning in Chem Applic</cell>
+          <cell />
+          <cell halign="left">STAT354</cell>
+          <cell halign="left">Concepts of Prob &amp; Stats</cell>
+        </row>
+        <row>
+          <cell halign="left">CHEM191</cell>
+          <cell halign="left">Chemistry Applications</cell>
+          <cell />
+          <cell halign="left">MATH461</cell>
+          <cell halign="left">Mathematical Theory of Interest</cell>
+        </row>
+        <row>
+          <cell halign="left">CHEM446</cell>
+          <cell halign="left">Physical Chemistry II</cell>
+          <cell />
+          <cell halign="left">MATH570</cell>
+          <cell halign="left">Numerical Analysis I</cell>
+        </row>
+        <row>
+          <cell halign="left">ME281</cell>
+          <cell halign="left">Computing Techniques</cell>
+          <cell />
+          <cell halign="left">MATH528</cell>
+          <cell halign="left">Linear Optimization</cell>
+        </row>
+        <row>
+          <cell halign="left">ME291</cell>
+          <cell halign="left">Engineering Analysis</cell>
+          <cell />
+          <cell halign="left">PHYS335</cell>
+          <cell halign="left">Modern Physics I</cell>
+        </row>
+        <row>
+          <cell halign="left">ENGR240</cell>
+          <cell halign="left">Linear Circuits</cell>
+          <cell />
+          <cell halign="left">PHYS457</cell>
+          <cell halign="left">Optics</cell>
+        </row>
+        <row>
+          <cell halign="left">MATH223</cell>
+          <cell halign="left">Calculus III</cell>
+          <cell />
+          <cell halign="left">PHYS565</cell>
+          <cell halign="left">Computer Applicat Phys</cell>
+        </row>
+        <row bottom="major">
+          <cell halign="left">MATH247</cell>
+          <cell halign="left">Linear Algebra I</cell>
+          <cell />
+          <cell halign="left"></cell>
+          <cell halign="left"></cell>
+        </row>
+      </tabular>
+    </p>
+    <p>
+      Additionally, Calculus II is listed required by the following degree programs
+      as a course or major prerequisite or Major Common Core requirement:
+      <tabular>
+        <row header="yes" bottom="major">
+          <cell halign="left">Program</cell>
+          <cell />
+          <cell halign="left">Program</cell>
+        </row>
+        <row>
+          <cell halign="left">Automotive Engineering Technology (BS)</cell>
+          <cell />
+          <cell halign="left">Manufacturing Engineering Technology (BS)</cell>
+        </row>
+        <row>
+          <cell halign="left">Biochemistry (BS)</cell>
+          <cell />
+          <cell halign="left">Mathematics (BA/BS)</cell>
+        </row>
+        <row>
+          <cell halign="left">Chemistry - ACS Approved (BS)</cell>
+          <cell />
+          <cell halign="left">Mathematics Teaching (BS)</cell>
+        </row>
+        <row>
+          <cell halign="left">Civil Engineering (BSCE)</cell>
+          <cell />
+          <cell halign="left">Mechanical Engineering (BSME)</cell>
+        </row>
+        <row>
+          <cell halign="left">Computer Engineering (BSEC)</cell>
+          <cell />
+          <cell halign="left">Physics (BS)</cell>
+        </row>
+        <row>
+          <cell halign="left">Computer Science (BS)</cell>
+          <cell />
+          <cell halign="left">Software Engineering (BS)</cell>
+        </row>
+        <row>
+          <cell halign="left">Electrical Engineering (BSEE)</cell>
+          <cell />
+          <cell halign="left">Statistics (BS)</cell>
+        </row>
+        <row>
+          <cell halign="left">Integrated Engineering (BSE)</cell>
+          <cell />
+          <cell halign="left">Statistics (BS) Actuarial Track</cell>
+        </row>
+      </tabular>
+    </p>
+    <p>
+      Finally, the degree programs for Biotechnology (BS) and Economics (BA/BS)
+      <em>strongly recommend</em> Calculus II for any students planning to pursue
+      graduate or professional school.
+    </p>
+  </subsection>

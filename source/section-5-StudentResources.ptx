@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="section-5" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>Student Learning Resources</title>
+  <introduction>
+    <p>
+      This section outlines university-wide resources.
+      These resources are available to all students to support them in their
+      educational journey.
+    </p>
+  </introduction>
+  <xi:include href="./StudentResources/subsec-01.ptx" /> <!--Maverick Textbook Reserve-->
+  <xi:include href="./StudentResources/subsec-02.ptx" /> <!--Technology-->
+  <xi:include href="./StudentResources/subsec-03.ptx" /> <!--MLC-->
+  <xi:include href="./StudentResources/subsec-04.ptx" /> <!--Center for Academic Success-->
+  <xi:include href="./StudentResources/subsec-05.ptx" /> <!--Accessibility Resources-->
+  <xi:include href="./StudentResources/subsec-06.ptx" /> <!--Veteran's Information-->
+  <xi:include href="./StudentResources/subsec-07.ptx" /> <!--Food Pantry-->
+</section>

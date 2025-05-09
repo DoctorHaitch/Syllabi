@@ -1,0 +1,54 @@
+<subsection>
+    <title>MavPASS</title>
+    <p>
+      MavPASS (Peer-Facilitated Academic Support System): This semester, we are
+      offering additional support to help students to succeed in this course.
+      Students who have taken this class in a previous semester have been hired
+      as MavPASS Leaders to sit in on the course with you, facilitate study sessions
+      outside of class, and hold office hours.
+    </p>
+    <p>
+      Your MavPASS leader this semester is 
+      <url href="https://mankato.mnsu.edu/academics/academic-support/student-support-centers/maverick-peer-facilitated-academic-support-system/about-mavpass2/mavpass-staffing/caleb-pardeik/">Caleb Pardeik</url>,
+      a student in the Computer Engineering program.
+      Your MavPASS schedule for this semester is
+    </p>
+    <tabular>
+      <row header="yes" bottom="major">
+        <cell halign="left">Day</cell>
+        <cell halign="left">Time</cell>
+        <cell halign="center">Event</cell>
+        <cell halign="center">Location</cell>
+      </row>
+      <row>
+        <cell halign="left">Monday</cell>
+        <cell halign="left">10:00AM-10:50AM</cell>
+        <cell halign="center">MP Working Session</cell>
+        <cell halign="center">WH283</cell>
+      </row>
+      <row bottom="major">
+        <cell halign="left">Wednesday</cell>
+        <cell halign="left">4:00PM-4:50PM</cell>
+        <cell halign="center">MP Working Session</cell>
+        <cell halign="center">WH286A</cell>
+      </row>
+      <row>
+        <cell halign="left">Tuesday</cell>
+        <cell halign="left">2:00PM-3:00PM</cell>
+        <cell halign="center">Office Hour</cell>
+        <cell halign="center">Zoom</cell>
+      </row>
+      <row bottom="major">
+        <cell halign="left">Wednesday</cell>
+        <cell halign="left">1:00PM-2:00PM</cell>
+        <cell halign="center">Office Hour</cell>
+        <cell halign="center">Zoom</cell>
+      </row>
+    </tabular>
+    <p>
+      Note, the two Working Sessions cover the same material, so you may
+      attend whichever is more convenient for your schedule (you do not need to attend both).
+      You can also find the schedule at <url href="https://www.mnsu.edu/mavpass">www.mnsu.edu/mavpass</url>.
+      For additional information, please email <url href="mailto:mavpass@mnsu.edu">mavpass@mnsu.edu</url>.
+    </p>
+  </subsection>

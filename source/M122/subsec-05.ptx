@@ -1,0 +1,34 @@
+<subsection>
+    <title>Course Outline</title>
+    <p>
+      A planned schedule for the semester is provided at the end of this document.
+      Please see it for important dates such as <alert>quizzes</alert> and <alert>exams</alert>.
+    </p>
+    <p>
+      Roughly, our semester is organized to study the following questions (in order):
+      <ol>
+        <li>
+          How can the relationships between integrals and derivatives help us model real-world phenomena?
+          In general, how can integration help us calculate useful quantities?
+          (Sections xx)
+        </li>
+        <li>
+          What can we do when the anti-derivative is not obvious?
+          (Sections xx)
+        </li>
+        <li>
+          How do we work with curves that are not functions or perform Calculus in other coordinate systems?
+          (Sections xx)
+        </li>
+        <li>
+          How do we deal with quantities involving infinity that still result in finite answers?
+          (Sections xx)
+        </li>
+        <li>
+          Finally, when our techniques from answering (2) fail (or are impossible), can we still
+          find meaningful answers to Calculus questions? If so, how?
+          (Sections xx)
+        </li>
+      </ol>
+    </p>
+  </subsection>
