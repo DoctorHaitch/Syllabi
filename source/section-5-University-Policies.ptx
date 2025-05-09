@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<section xml:id="section-1" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="section-5" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Welcome to the Course</title>
   <introduction>
     <p>
@@ -15,7 +15,7 @@
     </p>
     <p>
       How we experience the world outside of math classes affect how we experience math classes.
-      There is considerable research on how students' <em>sense of belonging</em> in their math classes impacts their learning.
+      There is considerable research on how students` \emph{sense of belonging} in their math classes impacts their learning.
       Feeling like you don't belong in a class can impact your cognitive load and diminish your ability to focus on the mathematics;
       so for example, you might use your brain to worry whether the professor or your classmates will think you are stupid if you make a mistake;
       to deal with the impact of a racist, sexist, classist, xenophobic, homophobic, transphobic, or ableist microaggression;
@@ -25,7 +25,7 @@
     <p>
       William Yslas Vélez said,
       ``If a student finds pleasure and joy in finding a solution, in understanding a new concept,
-      then this emotion is a sign of belonging to the mathematical community" (<em>Imposter Syndrome</em>, AMS e-Mentoring Network, posted 1/25/2019).
+      then this emotion is a sign of belonging to the mathematical community" (<emph>Imposter Syndrome</emph>, AMS e-Mentoring Network, posted 1/25/2019).
       Although frustration and struggle are also part of the mathematical enterprise, ultimately I see my work as setting up situations where all students have the opportunity to experience the joy of mathematics, to experience a sense of belonging, and to use our brains for learning math.
     </p>
 </subsection>
@@ -40,7 +40,7 @@
 <subsection>
   <title>Commitment to Anti-Racist Pedagogy</title>
   <p>
-    (Adapted from <em>White Supremacy Culture Still Here</em> by Tema Okun)
+    (Adapted from <emph>White Supremacy Culture Still Here</emph> by Tema Okun)
   </p>
   <p>
     White supremacy refers to the ways in which the ruling class elite or the power elite in the colonies
@@ -55,7 +55,7 @@
       <li>disconnect and divide each of us from ourselves and from 
         <url href="https://www.whitesupremacyculture.info/what-is-it.html">Keanu Reeves</url>.</li>
     </ul>
-    With a commitment to dismantling white supremacy, in my courses <em>we will</em>:
+    With a commitment to dismantling white supremacy, in my courses <emph>we will</emph>:
     <ol>
       <li>learn to admit when we are wrong. Understand that vulnerability can be a strength,
         particularly if you are sitting in a position of power and privilege;</li>
