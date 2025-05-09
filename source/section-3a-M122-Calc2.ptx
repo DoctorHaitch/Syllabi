@@ -22,4 +22,5 @@
   <xi:include href="./M122/subsec-06.ptx" /> <!--MavPASS-->
   <xi:include href="./M122/subsec-07.ptx" /> <!--Subsequent Courses and Programs-->
   <xi:include href="./M122/subsec-08.ptx" /> <!--Suggested Textbooks-->
+  <xi:include href="./M122/expectedKnowledge.ptx" /> <!--Expected Knowledge-->
 </section>

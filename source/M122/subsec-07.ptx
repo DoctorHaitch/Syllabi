@@ -10,80 +10,73 @@
     </p>
     <p>
       <tabular>
+        <col width="10%" />
+        <col width="40%" />
+        <col width="10%" />
+        <col width="40%" />
         <row header="yes" bottom="major">
-          <cell halign="left">Course</cell>
-          <cell halign="left">Title</cell>
-          <cell />
-          <cell halign="left">Course</cell>
-          <cell halign="left">Title</cell>
+          <cell halign="left"><p>Course</p></cell>
+          <cell halign="left"><p>Title</p></cell>
+          <cell halign="left"><p>Course</cell>
+          <cell halign="left"><p>Title</cell>
         </row>
         <row>
-          <cell halign="left">AST225</cell>
-          <cell halign="left">Astronomy/Astrophysics II</cell>
-          <cell />
-          <cell halign="left">MATH290</cell>
-          <cell halign="left">Foundations of Mathematics</cell>
+          <cell halign="left"><p>AST225</cell>
+          <cell halign="left"><p>Astronomy/Astrophysics II</cell>
+          <cell halign="left"><p>MATH290</cell>
+          <cell halign="left"><p>Foundations of Mathematics</cell>
         </row>
         <row>
-          <cell halign="left">CHEM101</cell>
-          <cell halign="left">General Chem Skills</cell>
-          <cell />
-          <cell halign="left">MATH321</cell>
-          <cell halign="left">Ordinary Differential Equations</cell>
+          <cell halign="left"><p>CHEM101</cell>
+          <cell halign="left"><p>General Chem Skills</cell>
+          <cell halign="left"><p>MATH321</cell>
+          <cell halign="left"><p>Ordinary Differential Equations</cell>
         </row>
         <row>
-          <cell halign="left">CHEM190</cell>
-          <cell halign="left">Learning in Chem Applic</cell>
-          <cell />
-          <cell halign="left">STAT354</cell>
-          <cell halign="left">Concepts of Prob &amp; Stats</cell>
+          <cell halign="left"><p>CHEM190</cell>
+          <cell halign="left"><p>Learning in Chem Applic</cell>
+          <cell halign="left"><p>STAT354</cell>
+          <cell halign="left"><p>Concepts of Prob &amp; Stats</cell>
         </row>
         <row>
-          <cell halign="left">CHEM191</cell>
-          <cell halign="left">Chemistry Applications</cell>
-          <cell />
-          <cell halign="left">MATH461</cell>
-          <cell halign="left">Mathematical Theory of Interest</cell>
+          <cell halign="left"><p>CHEM191</cell>
+          <cell halign="left"><p>Chemistry Applications</cell>
+          <cell halign="left"><p>MATH461</cell>
+          <cell halign="left"><p>Mathematical Theory of Interest</cell>
         </row>
         <row>
-          <cell halign="left">CHEM446</cell>
-          <cell halign="left">Physical Chemistry II</cell>
-          <cell />
-          <cell halign="left">MATH570</cell>
-          <cell halign="left">Numerical Analysis I</cell>
+          <cell halign="left"><p>CHEM446</cell>
+          <cell halign="left"><p>Physical Chemistry II</cell>
+          <cell halign="left"><p>MATH570</cell>
+          <cell halign="left"><p>Numerical Analysis I</cell>
         </row>
         <row>
-          <cell halign="left">ME281</cell>
-          <cell halign="left">Computing Techniques</cell>
-          <cell />
-          <cell halign="left">MATH528</cell>
-          <cell halign="left">Linear Optimization</cell>
+          <cell halign="left"><p>ME281</cell>
+          <cell halign="left"><p>Computing Techniques</cell>
+          <cell halign="left"><p>MATH528</cell>
+          <cell halign="left"><p>Linear Optimization</cell>
         </row>
         <row>
-          <cell halign="left">ME291</cell>
-          <cell halign="left">Engineering Analysis</cell>
-          <cell />
-          <cell halign="left">PHYS335</cell>
-          <cell halign="left">Modern Physics I</cell>
+          <cell halign="left"><p>ME291</cell>
+          <cell halign="left"><p>Engineering Analysis</cell>
+          <cell halign="left"><p>PHYS335</cell>
+          <cell halign="left"><p>Modern Physics I</cell>
         </row>
         <row>
-          <cell halign="left">ENGR240</cell>
-          <cell halign="left">Linear Circuits</cell>
-          <cell />
-          <cell halign="left">PHYS457</cell>
-          <cell halign="left">Optics</cell>
+          <cell halign="left"><p>ENGR240</cell>
+          <cell halign="left"><p>Linear Circuits</cell>
+          <cell halign="left"><p>PHYS457</cell>
+          <cell halign="left"><p>Optics</cell>
         </row>
         <row>
           <cell halign="left">MATH223</cell>
           <cell halign="left">Calculus III</cell>
-          <cell />
           <cell halign="left">PHYS565</cell>
           <cell halign="left">Computer Applicat Phys</cell>
         </row>
         <row bottom="major">
           <cell halign="left">MATH247</cell>
           <cell halign="left">Linear Algebra I</cell>
-          <cell />
           <cell halign="left"></cell>
           <cell halign="left"></cell>
         </row>
