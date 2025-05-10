@@ -1,9 +1,12 @@
-<subsection>
+<subsection xml:id="univ-grading">
   <title>University Grading Policy</title>
-
-  <p>
-    A student's work in any course will be evaluated to align with the following university grade system
-  </p>
+  <introduction>
+    <p>
+      A student's <alert>work</alert> in any course will be evaluated to align with the following university grade system and governing policies.
+      Final gradelines as a percent grade may be modified to better reflect these expectations, but <em>only</em> in students' favor if
+      gradelines are already provided in the individual course description.
+    </p>
+  </introduction>
 
   <tabular>
     <col width="10%" top="major"/>
@@ -13,34 +16,34 @@
         <cell colspan="3"><em>Undergraduate Grading</em></cell>
     </row>
     <row header="yes" bottom="major">
-      <cell>Mark</cell>
-      <cell>University Description</cell>
-      <cell>Detail</cell>
+      <cell></cell>
+      <cell><p>University Description</p></cell>
+      <cell><p>Instructor's Description</p></cell>
     </row>
     <row bottom="minor">
       <cell>A</cell>
-      <cell halign="center"><p>Superior level of performance</p></cell>
-      <cell halign="center"><p>Demonstrates mastery of the course material and consistently exceeds course expectations.</p></cell>
+      <cell halign="left"><p>Superior level of performance</p></cell>
+      <cell halign="center"><p>Demonstrates mastery of course material and <em>consistently exceeds course expectations.</em></p></cell>
     </row>
     <row bottom="minor">
       <cell>B</cell>
-      <cell halign="center"><p>Above-average level of performance</p></cell>
-      <cell halign="center"><p>Shows a strong understanding of the material and meets the course objectives.</p></cell>
+      <cell halign="left"><p>Above-average level of performance</p></cell>
+      <cell halign="center"><p>Shows strong understanding of course material and <em>meets most course objectives.</em></p></cell>
     </row>
     <row bottom="minor">
       <cell>C</cell>
-      <cell halign="center"><p>Average level of performance</p></cell>
-      <cell halign="center"><p>Indicates a satisfactory understanding of the course material and meets the basic expectations.</p></cell>
+      <cell halign="left"><p>Average level of performance</p></cell>
+      <cell halign="center"><p>Indicates satisfactory understanding of course material and <em>meets basic course objectives.</em></p></cell>
     </row>
     <row bottom="minor">
       <cell>D</cell>
-      <cell halign="center"><p>Below-average level of performance</p></cell>
-      <cell halign="center"><p>Student has not adequately mastered the material or has not met course expectations sufficiently.</p></cell>
+      <cell halign="left"><p>Below-average level of performance</p></cell>
+      <cell halign="center"><p>Indicates <em>not adequately meeting course objectives</em> or demonstration of sufficient mastery of course material.</p></cell>
     </row>
     <row bottom="major">
       <cell>F</cell>
-      <cell halign="center"><p>Failing level of performance</p></cell>
-      <cell halign="center"><p>Indicates failure to meet the course requirements and a lack of understanding of the material.</p></cell>
+      <cell halign="left"><p>Failing level of performance</p></cell>
+      <cell halign="center"><p>Indicates <em>failure to meet course objectives and demonstated a significant lack of understanding of the material.</em></p></cell>
     </row>
   </tabular>
 
@@ -52,36 +55,50 @@
         <cell colspan="3"><em>Graduate Grading</em></cell>
     </row>
     <row header="yes" bottom="major">
-      <cell>Mark</cell>
-      <cell>University Description</cell>
-      <cell>Detail</cell>
+      <cell halign="center"><p></p></cell>
+      <cell halign="center"><p>University Description</p></cell>
+      <cell halign="center"><p>Instructor's Description</p></cell>
     </row>
     <row bottom="minor">
       <cell>A</cell>
-      <cell halign="center"><p>Superior level of performance</p></cell>
-      <cell halign="center"><p>Demonstrates mastery of the course material and consistently exceeds course expectations.</p></cell>
+      <cell halign="left"><p>Superior level of performance</p></cell>
+      <cell halign="center"><p>Demonstrates mastery of course material and <em>consistently exceeds course expectations.</em></p></cell>
     </row>
     <row bottom="minor">
       <cell>B</cell>
-      <cell halign="center"><p>Above-average level of performance</p></cell>
-      <cell halign="center"><p>Shows a strong understanding of the material and meets the course objectives.</p></cell>
+      <cell halign="left"><p>Above-average level of performance</p></cell>
+      <cell halign="center"><p>Shows strong understanding of course material and <em>meets most course objectives.</em></p></cell>
     </row>
     <row bottom="minor">
       <cell>C</cell>
-      <cell halign="center"><p>Below-average level of performance</p></cell>
-      <cell halign="center"><p>Indicates a satisfactory understanding of the course material and meets the basic expectations.</p></cell>
+      <cell halign="left"><p>Below-average level of performance</p></cell>
+      <cell halign="center"><p>Indicates satisfactory understanding of course material and <em>meets basic course objectives.</em></p></cell>
     </row>
     <row bottom="minor">
       <cell>D</cell>
-      <cell halign="center"><p>Unacceptable level of performance</p></cell>
-      <cell halign="center"><p>Student has not adequately mastered the material or has not met course expectations sufficiently.</p></cell>
+      <cell halign="left"><p>Unacceptable level of performance</p></cell>
+      <cell halign="center"><p>Indicates <em>not adequately meeting course objectives</em> or demonstration of sufficient mastery of course material.</p></cell>
     </row>
     <row bottom="major">
       <cell>F</cell>
-      <cell halign="center"><p>Failing level of performance</p></cell>
-      <cell halign="center"><p>Indicates failure to meet the course requirements and a lack of understanding of the material.</p></cell>
+      <cell halign="left"><p>Failing level of performance</p></cell>
+      <cell halign="center"><p>Indicates <em>failure to meet course objectives and demonstated a significant lack of understanding of the material.</em></p></cell>
     </row>
   </tabular>
+  <remark>
+    <p>
+      Graduate students should be aware that while the Instructor’s Description of assignments and grading remains consistent for both undergraduate and graduate students (as indicated in the third column), the University’s Description of letter grades differs. Specifically, graduate students are held to a higher academic standard.
+    </p>
+    <p>
+      At the graduate level, the minimum acceptable performance is considered “above average” by university standards. This means that simply fulfilling the basic requirements of an assignment may not be sufficient for a high grade. Graduate students are expected to demonstrate a deeper, more critical understanding of course material, engage with concepts at a higher level of abstraction, and communicate their insights with clarity, precision, and intellectual rigor.
+    </p>
+    <p>
+      In addition, graduate-level work demands stronger metacognitive skills—such as the ability to reflect on one’s own learning, identify areas for growth, and adjust approaches accordingly. These heightened expectations align with the broader goals of graduate education: to cultivate independent thinkers, researchers, and professionals capable of contributing original ideas to their field.
+    </p>
+    <p>
+      While course content and assignments may overlap in cross-listed undergraduate/graduate courses, graduate students are evaluated by more rigorous standards, particularly in terms of depth of analysis, scholarly engagement, and critical thinking.
+    </p>
+  </remark>
 
   <p>
     The grade of <alert>Incomplete</alert> (I) is reserved for special cases.
