@@ -4,4 +4,9 @@
     <source>
         <directories external="../assets" generated="../generated-assets"/>
     </source>
+    <latex>
+      <page>
+          <geometry>a4paper,total={6in,9.5in}</geometry>
+      </page>
+    </latex>
 </publication>
