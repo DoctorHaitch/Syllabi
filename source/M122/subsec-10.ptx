@@ -95,17 +95,60 @@
           Write a brief description of this assessment type.
         </p>
     </subsubsection>
-    <subsubsection>
-        <title>Exams</title>
-        <p>
-          Write a brief description of this assessment type.
-        </p>
+    <subsubsection xml:id="exams">
+      <title>Exams</title>
+
+      <p>
+        About one week prior to each chapter exam, a practice problem set will be posted. These sets will include approximately 80 problems, some of which will appear directly on the exam. If you have been consistently completing the required practice problem sets, this packet will serve as effective review and reinforcement.
+      </p>
+
+      <p>
+        However, if you have not completed the ongoing practice, it is not realistic to expect that you can work through the entire problem set in the time available. Instead, use it strategically: scan through the problems to identify content areas where you feel uncertain or cannot immediately determine how to begin. If you find yourself unable to sketch out a general solution process for a problem, that topic likely needs further review.
+      </p>
+
+      <p>
+        To reinforce these areas, you are encouraged to bring questions from the packet to academic support resources such as MavPASS sessions, the Math and Statistics Learning Center, office hours, or the Center for Academic Success. For more information on these resources, see <xref ref="StudentResources"/>.
+      </p>
+
+      <p>
+        Exams will be completed in class and will follow a traditional format. Approximately 50% of each exam will consist of problems taken directly from the study packet. The remaining questions will be drawn from or modeled on problems from the Required Practice problem sets, Preclass Assignments, Groupwork Assignments, and Quizzes.
+      </p>
     </subsubsection>
-    <subsubsection>
-        <title>Exam Revisions</title>
-        <p>
-          Write a brief description of this assessment type.
-        </p>
+    <subsubsection xml:id="exam-revisions">
+      <title>Exam Revisions</title>
+      <p>
+        Students who are meeting course expectations will have the opportunity to earn back partial credit by submitting written reflections and corrected solutions after receiving a graded exam. This revision process is designed to reinforce understanding and promote deeper learning, as well as allowing students to learn from their mistakes.
+      </p>
+      <p>
+        To be eligible for exam revision credit, students must meet at least one of the following requirements:
+      </p>
+      <ul>
+        <li>
+          <p>Maintain an <alert>average class attendance</alert> of at least <alert>85%</alert>.</p>
+        </li>
+        <li>
+          <p>
+            Maintain a <alert>Required Practice Journal</alert> in which every section is present and at least 70% complete.
+          </p>
+        </li>
+        <li>
+          <p>
+            Attend a <alert>MavPASS session</alert> for each Required Practice problem set that is below 70% completion.
+          </p>
+        </li>
+      </ul>
+      <p>
+        As your instructor, I fully expect you to make mistakes—that’s part of the learning process. However, it remains essential that you approach each exam with serious preparation and genuine effort. Revisions are not a substitute for studying; they are a structured opportunity to reflect on your performance, identify patterns in your understanding, and strengthen the academic habits that support long-term success.
+      </p>
+
+      <p>
+        The revision process is designed to help you engage more deeply with the material and to develop critical skills such as self-assessment, persistence, and metacognitive awareness. If one or more exams do not go as planned, revisions allow you to recover some credit while learning how to better prepare for future assessments.
+      </p>
+
+      <p>
+        That said, revisions should not be viewed as a fallback or safety net. Students who rely on revisions instead of putting forth their best effort from the outset often fall behind in the course and struggle to catch up. Use revisions as a learning tool—not a crutch. The goal is not just to improve your grade, but to grow as an independent and resilient learner.
+      </p>
+
     </subsubsection>
     <subsubsection>
         <title>Final Project</title>
@@ -172,10 +215,7 @@ The group quiz feedback will be available on D2L.
 \noindent
 Exams will consist of a two-stage process this semester.
 \begin{enumerate}
-  \item Students will complete a Practice Exam for all three exams as both in-class and out-of-class work. This will consist of exam-like questions, but many more than I could possibly put on an in-class exam. The two class periods before each exam will be dedicated to working through this study guide. Students will also likely need to spend time out of class completing this.
-  The majority of the problems will be graded for completion and good-faith effort, however several (between 4 and 6) problems will be marked for correctness.
-  \item Students will complete an in-class, traditional exam. \textit{At least} 50\% of the exam questions will come directly from the study packet.
-%  \item For the first two exams, students will complete a revision (for this to improve their grade, see \textit{required practice} below) consisting of corrections and reflections on the in-class portion of the exam.
+
 \end{enumerate}
 The out of class portion will account for 35\% of your total exam score, and the in class portion will contribute the other 65\%.
 
