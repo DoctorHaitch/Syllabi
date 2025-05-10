@@ -10,73 +10,73 @@
     </p>
     <p>
       <tabular>
-        <col width="10%" />
-        <col width="40%" />
-        <col width="10%" />
-        <col width="40%" />
+        <col width="15%" />
+        <col width="35%" />
+        <col width="15%" />
+        <col width="35%" />
         <row header="yes" bottom="major">
           <cell halign="left"><p>Course</p></cell>
           <cell halign="left"><p>Title</p></cell>
-          <cell halign="left"><p>Course</cell>
-          <cell halign="left"><p>Title</cell>
+          <cell halign="left"><p>Course</p></cell>
+          <cell halign="left"><p>Title</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>AST225</cell>
-          <cell halign="left"><p>Astronomy/Astrophysics II</cell>
-          <cell halign="left"><p>MATH290</cell>
-          <cell halign="left"><p>Foundations of Mathematics</cell>
+          <cell halign="left"><p>AST225</p></cell>
+          <cell halign="left"><p>Astronomy/Astrophysics II</p></cell>
+          <cell halign="left"><p>MATH290</p></cell>
+          <cell halign="left"><p>Foundations of Mathematics</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM101</cell>
-          <cell halign="left"><p>General Chem Skills</cell>
-          <cell halign="left"><p>MATH321</cell>
-          <cell halign="left"><p>Ordinary Differential Equations</cell>
+          <cell halign="left"><p>CHEM101</p></cell>
+          <cell halign="left"><p>General Chem Skills</p></cell>
+          <cell halign="left"><p>MATH321</p></cell>
+          <cell halign="left"><p>Ordinary Differential Equations</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM190</cell>
-          <cell halign="left"><p>Learning in Chem Applic</cell>
-          <cell halign="left"><p>STAT354</cell>
-          <cell halign="left"><p>Concepts of Prob &amp; Stats</cell>
+          <cell halign="left"><p>CHEM190</p></cell>
+          <cell halign="left"><p>Learning in Chem Applic</p></cell>
+          <cell halign="left"><p>STAT354</p></cell>
+          <cell halign="left"><p>Concepts of Prob &amp; Stats</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM191</cell>
-          <cell halign="left"><p>Chemistry Applications</cell>
-          <cell halign="left"><p>MATH461</cell>
-          <cell halign="left"><p>Mathematical Theory of Interest</cell>
+          <cell halign="left"><p>CHEM191</p></cell>
+          <cell halign="left"><p>Chemistry Applications</p></cell>
+          <cell halign="left"><p>MATH461</p></cell>
+          <cell halign="left"><p>Mathematical Theory of Interest</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM446</cell>
-          <cell halign="left"><p>Physical Chemistry II</cell>
-          <cell halign="left"><p>MATH570</cell>
-          <cell halign="left"><p>Numerical Analysis I</cell>
+          <cell halign="left"><p>CHEM446</p></cell>
+          <cell halign="left"><p>Physical Chemistry II</p></cell>
+          <cell halign="left"><p>MATH570</p></cell>
+          <cell halign="left"><p>Numerical Analysis I</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>ME281</cell>
-          <cell halign="left"><p>Computing Techniques</cell>
-          <cell halign="left"><p>MATH528</cell>
-          <cell halign="left"><p>Linear Optimization</cell>
+          <cell halign="left"><p>ME281</p></cell>
+          <cell halign="left"><p>Computing Techniques</p></cell>
+          <cell halign="left"><p>MATH528</p></cell>
+          <cell halign="left"><p>Linear Optimization</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>ME291</cell>
-          <cell halign="left"><p>Engineering Analysis</cell>
-          <cell halign="left"><p>PHYS335</cell>
-          <cell halign="left"><p>Modern Physics I</cell>
+          <cell halign="left"><p>ME291</p></cell>
+          <cell halign="left"><p>Engineering Analysis</p></cell>
+          <cell halign="left"><p>PHYS335</p></cell>
+          <cell halign="left"><p>Modern Physics I</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>ENGR240</cell>
-          <cell halign="left"><p>Linear Circuits</cell>
-          <cell halign="left"><p>PHYS457</cell>
-          <cell halign="left"><p>Optics</cell>
+          <cell halign="left"><p>ENGR240</p></cell>
+          <cell halign="left"><p>Linear Circuits</p></cell>
+          <cell halign="left"><p>PHYS457</p></cell>
+          <cell halign="left"><p>Optics</p></cell>
         </row>
         <row>
-          <cell halign="left">MATH223</cell>
-          <cell halign="left">Calculus III</cell>
-          <cell halign="left">PHYS565</cell>
-          <cell halign="left">Computer Applicat Phys</cell>
+          <cell halign="left"><p>MATH223</p></cell>
+          <cell halign="left"><p>Calculus III</p></cell>
+          <cell halign="left"><p>PHYS565</p></cell>
+          <cell halign="left"><p>Computer Applicat Phys</p></cell>
         </row>
         <row bottom="major">
-          <cell halign="left">MATH247</cell>
-          <cell halign="left">Linear Algebra I</cell>
+          <cell halign="left"><p>MATH247</p></cell>
+          <cell halign="left"><p>Linear Algebra I</p></cell>
           <cell halign="left"></cell>
           <cell halign="left"></cell>
         </row>
@@ -86,50 +86,43 @@
       Additionally, Calculus II is listed required by the following degree programs
       as a course or major prerequisite or Major Common Core requirement:
       <tabular>
+        <col width="50%" />
+        <col width="50%" />
         <row header="yes" bottom="major">
-          <cell halign="left">Program</cell>
-          <cell />
-          <cell halign="left">Program</cell>
+          <cell halign="left"><p>Program</p></cell>
+          <cell halign="left"><p>Program</p></cell>
         </row>
         <row>
-          <cell halign="left">Automotive Engineering Technology (BS)</cell>
-          <cell />
-          <cell halign="left">Manufacturing Engineering Technology (BS)</cell>
+          <cell halign="left"><p>Automotive Engineering Technology (BS)</p></cell>
+          <cell halign="left"><p>Manufacturing Eng. Technology (BS)</p></cell>
         </row>
         <row>
-          <cell halign="left">Biochemistry (BS)</cell>
-          <cell />
-          <cell halign="left">Mathematics (BA/BS)</cell>
+          <cell halign="left"><p>Biochemistry (BS)</p></cell>
+          <cell halign="left"><p>Mathematics (BA/BS)</p></cell>
         </row>
         <row>
-          <cell halign="left">Chemistry - ACS Approved (BS)</cell>
-          <cell />
-          <cell halign="left">Mathematics Teaching (BS)</cell>
+          <cell halign="left"><p>Chemistry - ACS Approved (BS)</p></cell>
+          <cell halign="left"><p>Mathematics Teaching (BS)</p></cell>
         </row>
         <row>
-          <cell halign="left">Civil Engineering (BSCE)</cell>
-          <cell />
-          <cell halign="left">Mechanical Engineering (BSME)</cell>
+          <cell halign="left"><p>Civil Engineering (BSCE)</p></cell>
+          <cell halign="left"><p>Mechanical Engineering (BSME)</p></cell>
         </row>
         <row>
-          <cell halign="left">Computer Engineering (BSEC)</cell>
-          <cell />
-          <cell halign="left">Physics (BS)</cell>
+          <cell halign="left"><p>Computer Engineering (BSEC)</p></cell>
+          <cell halign="left"><p>Physics (BS)</p></cell>
         </row>
         <row>
-          <cell halign="left">Computer Science (BS)</cell>
-          <cell />
-          <cell halign="left">Software Engineering (BS)</cell>
+          <cell halign="left"><p>Computer Science (BS)</p></cell>
+          <cell halign="left"><p>Software Engineering (BS)</p></cell>
         </row>
         <row>
-          <cell halign="left">Electrical Engineering (BSEE)</cell>
-          <cell />
-          <cell halign="left">Statistics (BS)</cell>
+          <cell halign="left"><p>Electrical Engineering (BSEE)</p></cell>
+          <cell halign="left"><p>Statistics (BS)</p></cell>
         </row>
         <row>
-          <cell halign="left">Integrated Engineering (BSE)</cell>
-          <cell />
-          <cell halign="left">Statistics (BS) Actuarial Track</cell>
+          <cell halign="left"><p>Integrated Engineering (BSE)</p></cell>
+          <cell halign="left"><p>Statistics (BS) Actuarial Track</p></cell>
         </row>
       </tabular>
     </p>

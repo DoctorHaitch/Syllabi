@@ -257,8 +257,11 @@
       </li>
       <li>
         <p>Fundamental Theorem of Calculus</p>
-        <p>You don't need to know the proof, but you should appreciate the reason
-            Cauchy's Mean Value Theorem is the key idea that makes it work.</p>
+        <ol>
+          <li><p>You don't need to know the proof, but you should appreciate the reason
+            Cauchy's Mean Value Theorem is the key idea that makes this magnificent theorem
+            work.</p></li>
+          </ol>
       </li>
     </ol>
   </subsubsection>
