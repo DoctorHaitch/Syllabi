@@ -18,6 +18,7 @@
   <xi:include href="./M122/subsec-01.ptx" /> <!--Why Study Calculus-->
   <xi:include href="./M122/subsec-02.ptx" /> <!--Prerequisites-->
   <xi:include href="./M122/subsec-03.ptx" /> <!--Learning Outcomes-->
+  <xi:include href="./M122/subsec-11.ptx" /> <!--Licensure Standards-->
   <xi:include href="./M122/subsec-04.ptx" /> <!--Course Delivery-->
   <xi:include href="./M122/subsec-06.ptx" /> <!--MavPASS-->
   <xi:include href="./M122/subsec-07.ptx" /> <!--Subsequent Courses and Programs-->

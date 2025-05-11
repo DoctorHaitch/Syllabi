@@ -7,9 +7,9 @@
             A description of each assessment is provided below the weights table.
         </p> 
         <tabular>
-        <col width="20%" />
-        <col width="20%" />
-        <col width="60%" />
+        <col width="17%" />
+        <col width="10%" />
+        <col width="65%" />
         <row header="yes" bottom="major">
           <cell halign="left"><p>Assessment</p></cell>
           <cell halign="center"><p>Weight</p></cell>
@@ -17,43 +17,43 @@
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Foundations Quiz (Q00)</p></cell>
-          <cell halign="center"><p>5%</p></cell>
+          <cell halign="center">5%</cell>
           <cell halign="left"><p>In class quiz testing memorized facts and their applications in Calculus I.</p></cell>
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Group Participation</p></cell>
-          <cell halign="center"><p>5%</p></cell>
+          <cell halign="center">5%</cell>
           <cell halign="left"><p>In class groupwork completion and participation.</p></cell>
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Preclass Assignments</p></cell>
-          <cell halign="center"><p>10%</p></cell>
+          <cell halign="center">10%</cell>
           <cell halign="left"><p>Short assignments used to assess student's mathematical writing, review of required knowledge, and exploration of course competencies and interconnections.</p></cell>
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Required Practice Journal</p></cell>
-          <cell halign="center"><p>10%</p></cell>
+          <cell halign="center">10%</cell>
           <cell halign="left"><p>Homework journal for computations and conceptual practice of course competencies. Problem sets are posted on D2L.</p></cell>
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Quizzes (5)</p></cell>
-          <cell halign="center"><p>20%</p></cell>
+          <cell halign="center">20%</cell>
           <cell halign="left"><p>Short assessments to check progress between exams. Lowest mark dropped from gradebook.</p></cell>
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Exams (3)</p></cell>
-          <cell halign="center"><p>40%</p></cell>
+          <cell halign="center">40%</cell>
           <cell halign="left"><p>(17%-13%-10%) Chapter exams will be based on material from the Required Practice problem sets, Preclass Assignments, in-class Groupwork activities, Quizzes, and the Exam Practice Problem sets. To be successful, make sure you're consistently engaging with these resources and setting aside regular time each day to practice. Last-minute cramming is not an effective strategy for this course.</p></cell>
         </row>
         <row bottom="minor">
           <cell halign="left"><p>Final Project</p></cell>
-          <cell halign="center"><p>10%</p></cell>
+          <cell halign="center">10%</cell>
           <cell halign="left"><p>See description below.</p></cell>
         </row>
         <row bottom="major">
           <cell halign="left"><p>Final Exam</p></cell>
-          <cell halign="center"><p>---</p></cell>
-          <cell halign="left"><p>Optional. <em>Will</em> be used to replace a prior exam score.</p></cell>
+          <cell halign="center">---</cell>
+          <cell halign="left"><p><em>Optional:</em> You may choose to take the final exam. After completing it, you can decide whether or not you want it graded. If you opt to have it graded, the score will replace your lowest previous exam score, better or worse.</p></cell>
         </row>
       </tabular>
       <p>
@@ -80,7 +80,23 @@
     <subsubsection>
         <title>Preclass Assignments</title>
         <p>
-          Write a brief description of this assessment type.
+          Preclass Assignments are brief tasks designed to assess your mathematical writing, reinforce foundational knowledge, and support exploration of key course competencies and their connections.
+        </p>
+
+        <p>
+          A Preclass Assignment will be assigned for each class meeting during the first two weeks of the semester. These early assignments serve several purposes: to gauge your initial knowledge and skills, to help you understand course expectations, to encourage daily practice habits, to provide early and frequent feedback, and to allow both you and the instructor to make timely adjustments. These assignments also help the instructor determine whether early progress reports or additional academic support may be necessary for any students.
+        </p>
+
+        <p>
+          As the semester progresses, Preclass Assignments will typically be assigned on Fridays (due the following Monday) or on Tuesdays (due the following Thursday), and are generally only scheduled on days without other major assessments. These assignments are meant to sustain regular engagement with the material and ensure you are prepared for in-class activities.
+        </p>
+
+        <p>
+          <alert>Repeated late submissions will not be accepted.</alert> For details, refer to the full late work policy in <xref ref="late-work-policy"/>.
+        </p>
+
+        <p>
+          Each Preclass Assignment is graded on a 4-point scale: <alert>3 points</alert> for thoughtful completion and <alert>1 point</alert> for mathematical correctness.
         </p>
     </subsubsection>
     <subsubsection>

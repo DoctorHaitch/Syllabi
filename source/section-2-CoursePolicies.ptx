@@ -10,5 +10,6 @@
   <xi:include href="./CoursePolicies/subsec-03.ptx" /> <!--Course Feedback-->
   <xi:include href="./CoursePolicies/subsec-04.ptx" /> <!--Effective Use of Office Hours-->
   <xi:include href="./CoursePolicies/subsec-02.ptx" /> <!--Late Work-->
+  <xi:include href="./CoursePolicies/subsec-05.ptx" /> <!--Attendance and Emergency Preparedness-->
   <xi:include href="./CoursePolicies/subsec-01.ptx" /> <!--AI Usage-->
 </section>

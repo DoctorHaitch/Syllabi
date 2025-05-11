@@ -1,13 +1,19 @@
-<subsection>
-    <title>Course Delivery</title>
-    <p>
-      Sessions will be in person.
-      Many classes will require you to complete a 'pre-class assignment' to be turned in at the start of class.
-      Lectures will be interactive and often be interrupted or replaced by individual or small group practice.
-      You are expected to participate in class.
-      If you are having trouble understanding anything please feel free to raise your hand and ask about it,
-      or discuss it with your peers during the group work times.
-      If you are not comfortable doing this, please email me, visit my drop-in practice hours,
-      schedule an appointment during office hours, or ask immediately after class.
-    </p>
-  </subsection>
+<subsection xml:id="course-delivery">
+  <title>Course Delivery</title>
+
+  <p>
+    This course will be delivered in person. Active engagement is essential to your success, and students are expected to participate fully during each class session.
+  </p>
+
+  <p>
+    Early in the semester, frequent <em>pre-class assignments</em> will be assigned, with additional ones distributed periodically throughout the term. These are due at the beginning of the next class period. Pre-class assignments are intended to prepare you for in-class activities, reinforce recent material, assess your progress in writing clear mathematical solutions, and support long-term goals such as the final project by breaking them into manageable stages.
+  </p>
+
+  <p>
+    Instruction will be interactive. Most class periods will include lectures punctuated by individual or small-group problem solving. Students will regularly be asked to suggest next steps or provide answers during worked examples. In some sessions, collaborative group work may fully replace lecture.
+  </p>
+
+  <p>
+    You are encouraged to ask questions whenever you encounter difficulties. You may raise your hand during class, talk with peers during group work, or seek assistance outside of class. If you are more comfortable seeking help privately, you are welcome to email the instructor, attend office hours (either individually or in a small group), schedule a one-on-one meeting, or ask questions immediately after class.
+  </p>
+</subsection>

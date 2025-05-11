@@ -7,48 +7,48 @@
   </introduction>
       <tabular>
         <col width="10%" />
-        <col width="20%" />
+        <col width="15%" />
         <col width="10%" />
-        <col width="20%" />
+        <col width="15%" />
         <col width="10%" />
-        <col width="20%" />
+        <col width="15%" />
         <row header="yes" bottom="major">
-          <cell halign="left"><p>Letter Grade</p></cell>
-          <cell halign="left"><p>Weighted Average</p></cell>
-          <cell halign="left"><p>Letter Grade</p></cell>
-          <cell halign="left"><p>Weighted Average</p></cell>
-          <cell halign="left"><p>Letter Grade</p></cell>
-          <cell halign="left"><p>Weighted Average</p></cell>
+          <cell halign="center"><p>Letter Grade</p></cell>
+          <cell halign="center"><p>Weighted Average</p></cell>
+          <cell halign="center"><p>Letter Grade</p></cell>
+          <cell halign="center"><p>Weighted Average</p></cell>
+          <cell halign="center"><p>Letter Grade</p></cell>
+          <cell halign="center"><p>Weighted Average</p></cell>
         </row>
         <row>
-          <cell halign="center"><p>A</p></cell>
-          <cell halign="left"><p>[92,100]</p></cell>
-          <cell halign="center"><p>B-</p></cell>
-          <cell halign="left"><p>[77,80)</p></cell>
-          <cell halign="center"><p>D</p></cell>
-          <cell halign="left"><p>[62,65)</p></cell>
+          <cell halign="center">A</cell>
+          <cell halign="center">[92,100]</cell>
+          <cell halign="center">B-</cell>
+          <cell halign="center">[77,80)</cell>
+          <cell halign="center">D</cell>
+          <cell halign="center">[62,65)</cell>
         </row>
         <row>
-          <cell halign="center"><p>A-</p></cell>
-          <cell halign="left"><p>[88,92)</p></cell>
-          <cell halign="center"><p>C+</p></cell>
-          <cell halign="left"><p>[74,77)</p></cell>
-          <cell halign="center"><p>D-</p></cell>
-          <cell halign="left"><p>[59,62)</p></cell>
+          <cell halign="center">A-</cell>
+          <cell halign="center">[88,92)</cell>
+          <cell halign="center">C+</cell>
+          <cell halign="center">[74,77)</cell>
+          <cell halign="center">D-</cell>
+          <cell halign="center">[59,62)</cell>
         </row>
         <row>
-          <cell halign="center"><p>B+</p></cell>
-          <cell halign="left"><p>[84,88)</p></cell>
-          <cell halign="center"><p>C</p></cell>
-          <cell halign="left"><p>[70,74)</p></cell>
-          <cell halign="center"><p>F</p></cell>
-          <cell halign="left"><p>[0,59)</p></cell>
+          <cell halign="center">B+</cell>
+          <cell halign="center">[84,88)</cell>
+          <cell halign="center">C</cell>
+          <cell halign="center">[70,74)</cell>
+          <cell halign="center">F</cell>
+          <cell halign="center">[0,59)</cell>
         </row>
         <row>
-          <cell halign="center"><p>B</p></cell>
-          <cell halign="left"><p>[80,84)</p></cell>
-          <cell halign="center"><p>D+</p></cell>
-          <cell halign="left"><p>[65,70)</p></cell>
+          <cell halign="center">B</cell>
+          <cell halign="center">[80,84)</cell>
+          <cell halign="center">D+</cell>
+          <cell halign="center">[65,70)</cell>
           <cell />
           <cell />
         </row>

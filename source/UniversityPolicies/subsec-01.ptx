@@ -13,12 +13,12 @@
     <col width="15%" top="major"/>
     <col width="75%" top="major"/>
     <row header="yes" bottom="minor">
-        <cell colspan="3"><em>Undergraduate Grading</em></cell>
+        <cell halign="center" colspan="3"><em>Undergraduate Grading</em></cell>
     </row>
     <row header="yes" bottom="major">
-      <cell></cell>
-      <cell><p>University Description</p></cell>
-      <cell><p>Instructor's Description</p></cell>
+      <cell />
+      <cell halign="center"><p>University Description</p></cell>
+      <cell halign="center"><p>Instructor's Description</p></cell>
     </row>
     <row bottom="minor">
       <cell>A</cell>
@@ -52,10 +52,10 @@
     <col width="15%" top="major"/>
     <col width="75%" top="major"/>
     <row header="yes" bottom="minor">
-        <cell colspan="3"><em>Graduate Grading</em></cell>
+        <cell halign="center" colspan="3"><em>Graduate Grading</em></cell>
     </row>
     <row header="yes" bottom="major">
-      <cell halign="center"><p></p></cell>
+      <cell />
       <cell halign="center"><p>University Description</p></cell>
       <cell halign="center"><p>Instructor's Description</p></cell>
     </row>

@@ -15,67 +15,67 @@
         <col width="15%" />
         <col width="35%" />
         <row header="yes" bottom="major">
-          <cell halign="left"><p>Course</p></cell>
-          <cell halign="left"><p>Title</p></cell>
-          <cell halign="left"><p>Course</p></cell>
-          <cell halign="left"><p>Title</p></cell>
+          <cell halign="left">Course</cell>
+          <cell halign="left">Title</cell>
+          <cell halign="left">Course</cell>
+          <cell halign="left">Title</cell>
         </row>
         <row>
-          <cell halign="left"><p>AST225</p></cell>
+          <cell halign="left">AST225</cell>
           <cell halign="left"><p>Astronomy/Astrophysics II</p></cell>
-          <cell halign="left"><p>MATH290</p></cell>
+          <cell halign="left">MATH290</cell>
           <cell halign="left"><p>Foundations of Mathematics</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM101</p></cell>
+          <cell halign="left">CHEM101</cell>
           <cell halign="left"><p>General Chem Skills</p></cell>
-          <cell halign="left"><p>MATH321</p></cell>
+          <cell halign="left">MATH321</cell>
           <cell halign="left"><p>Ordinary Differential Equations</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM190</p></cell>
+          <cell halign="left">CHEM190</cell>
           <cell halign="left"><p>Learning in Chem Applic</p></cell>
-          <cell halign="left"><p>STAT354</p></cell>
+          <cell halign="left">STAT354</cell>
           <cell halign="left"><p>Concepts of Prob &amp; Stats</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM191</p></cell>
+          <cell halign="left">CHEM191</cell>
           <cell halign="left"><p>Chemistry Applications</p></cell>
-          <cell halign="left"><p>MATH461</p></cell>
+          <cell halign="left">MATH461</cell>
           <cell halign="left"><p>Mathematical Theory of Interest</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>CHEM446</p></cell>
+          <cell halign="left">CHEM446</cell>
           <cell halign="left"><p>Physical Chemistry II</p></cell>
-          <cell halign="left"><p>MATH570</p></cell>
+          <cell halign="left">MATH570</cell>
           <cell halign="left"><p>Numerical Analysis I</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>ME281</p></cell>
+          <cell halign="left">ME281</cell>
           <cell halign="left"><p>Computing Techniques</p></cell>
-          <cell halign="left"><p>MATH528</p></cell>
+          <cell halign="left">MATH528</cell>
           <cell halign="left"><p>Linear Optimization</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>ME291</p></cell>
+          <cell halign="left">ME291</cell>
           <cell halign="left"><p>Engineering Analysis</p></cell>
-          <cell halign="left"><p>PHYS335</p></cell>
+          <cell halign="left">PHYS335</cell>
           <cell halign="left"><p>Modern Physics I</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>ENGR240</p></cell>
+          <cell halign="left">ENGR240</cell>
           <cell halign="left"><p>Linear Circuits</p></cell>
-          <cell halign="left"><p>PHYS457</p></cell>
+          <cell halign="left">PHYS457</cell>
           <cell halign="left"><p>Optics</p></cell>
         </row>
         <row>
-          <cell halign="left"><p>MATH223</p></cell>
+          <cell halign="left">MATH223</cell>
           <cell halign="left"><p>Calculus III</p></cell>
-          <cell halign="left"><p>PHYS565</p></cell>
+          <cell halign="left">PHYS565</cell>
           <cell halign="left"><p>Computer Applicat Phys</p></cell>
         </row>
         <row bottom="major">
-          <cell halign="left"><p>MATH247</p></cell>
+          <cell halign="left">MATH247</cell>
           <cell halign="left"><p>Linear Algebra I</p></cell>
           <cell halign="left"></cell>
           <cell halign="left"></cell>
@@ -87,10 +87,10 @@
       as a course or major prerequisite or Major Common Core requirement:
       <tabular>
         <col width="50%" />
-        <col width="50%" />
+        <col width="45%" />
         <row header="yes" bottom="major">
-          <cell halign="left"><p>Program</p></cell>
-          <cell halign="left"><p>Program</p></cell>
+          <cell halign="left">Program</cell>
+          <cell halign="left">Program</cell>
         </row>
         <row>
           <cell halign="left"><p>Automotive Engineering Technology (BS)</p></cell>
