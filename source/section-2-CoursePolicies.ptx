@@ -4,11 +4,15 @@
   <introduction>
     <p>
       This section provides policies and advice on how to best use them
-      which apply to every course I teach.
+      which apply to every course I teach, along with some general
+      observations on why students should study mathematics and take
+      that study seriously.
     </p>
   </introduction>
+  
+  <xi:include href="./CoursePolicies/WhyStudyMath.ptx" /> <!--Course Feedback-->
   <xi:include href="./CoursePolicies/subsec-03.ptx" /> <!--Course Feedback-->
-  <xi:include href="./CoursePolicies/subsec-04.ptx" /> <!--Effective Use of Office Hours-->
+  <xi:include href="./CoursePolicies/UsingOfficeHours.ptx" /> <!--Effective Use of Office Hours-->
   <xi:include href="./CoursePolicies/subsec-02.ptx" /> <!--Late Work-->
   <xi:include href="./CoursePolicies/subsec-05.ptx" /> <!--Attendance and Emergency Preparedness-->
   <xi:include href="./CoursePolicies/subsec-01.ptx" /> <!--AI Usage-->
