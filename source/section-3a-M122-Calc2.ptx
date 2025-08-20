@@ -14,12 +14,13 @@
     </p>
   </introduction>
 
-  <xi:include href="./M122/subsec-05.ptx" /> <!--Course Outline-->
-  <xi:include href="./M122/subsec-01.ptx" /> <!--Why Study Calculus-->
+  <xi:include href="./M122/122Outline.ptx" /> <!--Course Outline-->
+  <xi:include href="./M122/WhyCalculus.ptx" /> <!--Why Study Calculus-->
   <xi:include href="./M122/subsec-02.ptx" /> <!--Prerequisites-->
-  <xi:include href="./M122/subsec-03.ptx" /> <!--Learning Outcomes-->
+  <xi:include href="./M122/LearningOutcomes.ptx" /> <!--Learning Outcomes-->
+  <xi:include href="./M122/CourseEngagement.ptx" /> <!--Course Engagement-->
   <xi:include href="./M122/subsec-11.ptx" /> <!--Licensure Standards-->
-  <xi:include href="./M122/subsec-04.ptx" /> <!--Course Delivery-->
+  <!-- <xi:include href="./M122/subsec-04.ptx" /> Course Delivery-->
   <xi:include href="./M122/MavPASS.ptx" /> <!--MavPASS-->
   <xi:include href="./M122/subsec-07.ptx" /> <!--Subsequent Courses and Programs-->
   <xi:include href="./M122/subsec-08.ptx" /> <!--Suggested Textbooks-->
