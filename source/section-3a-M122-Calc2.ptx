@@ -20,7 +20,7 @@
   <xi:include href="./M122/subsec-03.ptx" /> <!--Learning Outcomes-->
   <xi:include href="./M122/subsec-11.ptx" /> <!--Licensure Standards-->
   <xi:include href="./M122/subsec-04.ptx" /> <!--Course Delivery-->
-  <xi:include href="./M122/subsec-06.ptx" /> <!--MavPASS-->
+  <xi:include href="./M122/MavPASS.ptx" /> <!--MavPASS-->
   <xi:include href="./M122/subsec-07.ptx" /> <!--Subsequent Courses and Programs-->
   <xi:include href="./M122/subsec-08.ptx" /> <!--Suggested Textbooks-->
   <xi:include href="./M122/subsec-09.ptx" /> <!--Grade Assignment-->
