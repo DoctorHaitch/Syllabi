@@ -36,7 +36,7 @@
         <cell halign="left"><p>Short tasks assessing mathematical writing, foundational knowledge, and readiness for class activities.</p></cell>
       </row>
       <row bottom="minor">
-        <cell halign="left"><p><xref ref="required-practice" text="custom">Required Practice Journal</xref></p></cell>
+        <cell halign="left"><p><xref ref="required-practice" text="custom">Learning Problems Journal</xref></p></cell>
         <cell halign="center">7.5%</cell>
         <cell halign="left"><p>Homework journal tracking progress on assigned problem sets posted on D2L.</p></cell>
       </row>
@@ -128,7 +128,7 @@
   </subsubsection>
 
   <subsubsection xml:id="required-practice">
-    <title>Required Practice Journal</title>
+    <title>Learning Problems Journal</title>
       <p>
           This is a journal you will keep to record your progress on the learning problems sets assigned on D2L for each section of the textbook. Each set is awarded 1 point for 50-70% or 2 points for 70%+ completion. You must mostly complete all of these problem sets to be eligible to revise exams for partial credit back.
         </p>
@@ -137,7 +137,7 @@
   <subsubsection xml:id="quizzes">
     <title>Quizzes</title>
       <p>
-          These will consist of 2-4 problems from the indicated sections. These problems are similar to those found on the required practice problem sets or in-class groupworks. These will take half of the class period, and we will immediately review the quiz for the remainder of the class period.
+          These will consist of 2-4 problems from the indicated sections. These problems are similar to those found on the Learning Problems sets or in-class groupworks. These will take half of the class period, and we will immediately review the quiz for the remainder of the class period.
           Your lowest quiz score will be dropped when calculating your final course mark at the end of the semester.
         </p>
   </subsubsection>
@@ -145,7 +145,7 @@
   <subsubsection xml:id="exams">
     <title>Exams</title>
     <p>
-        About one week prior to each chapter exam, a practice problem set will be posted. These sets will include approximately 80 problems, some of which will appear directly on the exam. If you have been consistently completing the required practice problem sets, this packet will serve as effective review and reinforcement.
+        About one week prior to each chapter exam, a practice problem set will be posted. These sets will include approximately 80 problems, some of which will appear directly on the exam. If you have been consistently completing the Learning Problems sets, this packet will serve as effective review and reinforcement.
       </p>
 
       <p>
@@ -157,7 +157,7 @@
       </p>
 
       <p>
-        Exams will be completed in class and will follow a traditional format. Approximately 50% of each exam will consist of problems taken directly from the study packet. The remaining questions will be drawn from or modeled on problems from the Required Practice problem sets, Preclass Assignments, Groupwork Assignments, and Quizzes.
+        Exams will be completed in class and will follow a traditional format. Approximately 50% of each exam will consist of problems taken directly from the study packet. The remaining questions will be drawn from or modeled on problems from the Learning Problems sets, Preclass Assignments, Groupwork Assignments, and Quizzes.
       </p>
   </subsubsection>
 
@@ -175,12 +175,12 @@
         </li>
         <li>
           <p>
-            Maintain a <alert>Required Practice Journal</alert> in which every section is present and at least 70% complete.
+            Maintain a <alert>Learning Problems Journal</alert> in which every section is present and at least 70% complete.
           </p>
         </li>
         <li>
           <p>
-            Attend a <alert>MavPASS session</alert> for each Required Practice problem set that is below 70% completion.
+            Attend a <alert>MavPASS session</alert> for each Learning Problems set that is below 70% completion.
           </p>
         </li>
       </ul>
