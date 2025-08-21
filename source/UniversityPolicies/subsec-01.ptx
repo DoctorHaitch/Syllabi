@@ -38,7 +38,7 @@
     <row bottom="minor">
       <cell>D</cell>
       <cell halign="left"><p>Below-average level of performance</p></cell>
-      <cell halign="center"><p>Indicates <em>not adequately meeting course objectives or demonstration of sufficient mastery of course material.</em></p></cell>
+      <cell halign="center"><p>Indicates <em>not adequately meeting course objectives</em> or demonstration of insufficient mastery of course material.</p></cell>
     </row>
     <row bottom="major">
       <cell>F</cell>
@@ -77,7 +77,7 @@
     <row bottom="minor">
       <cell>D</cell>
       <cell halign="left"><p>Unacceptable level of performance</p></cell>
-      <cell halign="center"><p>Indicates <em>not adequately meeting course objectives</em> or demonstration of sufficient mastery of course material.</p></cell>
+      <cell halign="center"><p>Indicates <em>not adequately meeting course objectives</em> or demonstration of insufficient mastery of course material.</p></cell>
     </row>
     <row bottom="major">
       <cell>F</cell>

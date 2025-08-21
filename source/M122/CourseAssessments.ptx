@@ -1,0 +1,241 @@
+<subsection xml:id="course-assessments">
+  <title>Course Assessments</title>
+
+  <introduction>
+    <p>
+      Your final grade in this course will be based on your demonstrated understanding of the course learning outcomes, as shown through a variety of assessments. The table below shows each assessment type along with its weight toward your final grade. Descriptions for each assessment follow the table.
+    </p>
+
+    <tabular>
+      <col width="17%" />
+      <col width="10%" />
+      <col width="65%" />
+      <row header="yes" bottom="major">
+        <cell halign="left"><p>Assessment</p></cell>
+        <cell halign="center"><p>Weight</p></cell>
+        <cell halign="left"><p>Description</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="foundations1" text="custom">Foundations Assessment 1</xref></p></cell>
+        <cell halign="center">5%</cell>
+        <cell halign="left"><p>Take-home quiz focused on foundational algebra skills. Open-resource.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="foundations2" text="custom">Foundations Assessment 2</xref></p></cell>
+        <cell halign="center">2.5%</cell>
+        <cell halign="left"><p>In-class quiz testing memorized facts and their applications.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="group-participation" text="custom">Group Participation</xref></p></cell>
+        <cell halign="center">5%</cell>
+        <cell halign="left"><p>Active participation and engagement in class groupwork activities.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="preclass" text="custom">Preclass Assignments</xref></p></cell>
+        <cell halign="center">5%</cell>
+        <cell halign="left"><p>Short tasks assessing mathematical writing, foundational knowledge, and readiness for class activities.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="required-practice" text="custom">Required Practice Journal</xref></p></cell>
+        <cell halign="center">7.5%</cell>
+        <cell halign="left"><p>Homework journal tracking progress on assigned problem sets posted on D2L.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="quizzes" text="custom">Quizzes (5)</xref></p></cell>
+        <cell halign="center">20%</cell>
+        <cell halign="left"><p>In-class quizzes on recent material. Your lowest score will be dropped.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="exams" text="custom">Exams (3)</xref></p></cell>
+        <cell halign="center">40%</cell>
+        <cell halign="left"><p>(17% + 13% + 10%) Chapter-based exams covering material from class, practice problems, and quizzes.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="final-project" text="custom">Final Project</xref></p></cell>
+        <cell halign="center">15%</cell>
+        <cell halign="left"><p>A creative final presentation summarizing your learning. See description below.</p></cell>
+      </row>
+      <row bottom="major">
+        <cell halign="left"><p><xref ref="final-exam" text="custom">Final Exam</xref></p></cell>
+        <cell halign="center">---</cell>
+        <cell halign="left"><p><em>Optional:</em> May replace your lowest exam score (better or worse). You can choose to have it graded after completing it.</p></cell>
+      </row>
+    </tabular>
+
+    <p>
+      <alert>I am more interested in your reasoning than just your final answers.</alert> In real-world problem solving—especially in STEM—understanding the process is often more important than getting the "right" number. That’s why many out-of-class assignments include final answers: your focus should be on how to get there.
+    </p>
+
+    <p>
+      On quizzes and exams, minimal partial credit will be given unless your work includes clear, logical steps. I want to see how you’re thinking—not just what you concluded.
+    </p>
+
+    <p>
+      While not every technique we cover will apply equally to every major, the mathematical reasoning and problem-solving skills you develop will benefit you in future courses. Mastering core competencies—such as algebraic manipulation, structured reasoning, and communication—will serve you well far beyond this class.
+    </p>
+
+    <p>
+      My goal is to help you build both confidence and competence in mathematical thinking. These are lifelong skills with value across all scientific and technical fields.
+    </p>
+  </introduction>
+
+  <subsubsection xml:id="foundations1">
+    <title>Foundations Assessment 1</title>
+    <p>
+      This is a take-home quiz. You may use resources such as your textbook, tutoring services, office hours, or group study. It will be handed out on the first day of class and is due on Thursday of the first week.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="foundations2">
+    <title>Foundations Assessment 2</title>
+    <p>
+      This in-class quiz will take place on the first Friday of the semester. A sample version will be posted on D2L on the first day. Most of the quiz will closely resemble this sample, with only small variations. You are expected to have key facts and procedures memorized and ready for quick recall.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="group-participation">
+    <title>Group Participation</title>
+    <p>
+      During most class meetings, you'll work in small groups to solve problems, explore new ideas, and deepen your understanding of course concepts. Your participation grade is based on meaningful contributions to group discussions and collaborative tasks.
+    </p>
+    <p>
+      This includes being prepared, staying engaged, helping your teammates, and working through challenges together. Active participation benefits not only your learning but also supports the group as a whole.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="preclass">
+    <title>Preclass Assignments</title>
+            <p>
+          Preclass Assignments are brief tasks designed to assess your mathematical writing, reinforce foundational knowledge, and support exploration of key course competencies and their connections.
+        </p>
+
+        <p>
+          A Preclass Assignment will be assigned for each class meeting during the first two weeks of the semester. These early assignments serve several purposes: to gauge your initial knowledge and skills, to help you understand course expectations, to encourage daily practice habits, to provide early and frequent feedback, and to allow both you and the instructor to make timely adjustments.
+          These assignments also help the instructor determine whether early progress reports or additional academic support may be necessary for any students.
+        </p>
+
+        <p>
+          As the semester progresses, Preclass Assignments will occassionally be assigned on Fridays (due the following Monday) or on Tuesdays (due the following Thursday), and are generally only scheduled on days without other major assessments. These assignments are meant to sustain regular engagement with the material and ensure you are prepared for in-class activities.
+        </p>
+
+        <p>
+          <alert>Repeated late submissions will not be accepted.</alert> For details, refer to the full late work policy in <xref ref="late-work-policy"/>.
+        </p>
+
+        <p>
+          Each Preclass Assignment is graded on a 4-point scale: <alert>3 points</alert> for thoughtful completion and <alert>1 point</alert> for mathematical correctness.
+        </p>
+  </subsubsection>
+
+  <subsubsection xml:id="required-practice">
+    <title>Required Practice Journal</title>
+      <p>
+          This is a journal you will keep to record your progress on the learning problems sets assigned on D2L for each section of the textbook. Each set is awarded 1 point for 50-70% or 2 points for 70%+ completion. You must mostly complete all of these problem sets to be eligible to revise exams for partial credit back.
+        </p>
+  </subsubsection>
+
+  <subsubsection xml:id="quizzes">
+    <title>Quizzes</title>
+      <p>
+          These will consist of 2-4 problems from the indicated sections. These problems are similar to those found on the required practice problem sets or in-class groupworks. These will take half of the class period, and we will immediately review the quiz for the remainder of the class period.
+          Your lowest quiz score will be dropped when calculating your final course mark at the end of the semester.
+        </p>
+  </subsubsection>
+
+  <subsubsection xml:id="exams">
+    <title>Exams</title>
+    <p>
+        About one week prior to each chapter exam, a practice problem set will be posted. These sets will include approximately 80 problems, some of which will appear directly on the exam. If you have been consistently completing the required practice problem sets, this packet will serve as effective review and reinforcement.
+      </p>
+
+      <p>
+        However, if you have not completed the ongoing practice, it is not realistic to expect that you can work through the entire problem set in the time available. Instead, use it strategically: scan through the problems to identify content areas where you feel uncertain or cannot immediately determine how to begin. If you find yourself unable to sketch out a general solution process for a problem, that topic likely needs further review.
+      </p>
+
+      <p>
+        To reinforce these areas, you are encouraged to bring questions from the packet to academic support resources such as MavPASS sessions, the Math and Statistics Learning Center, office hours, or the Center for Academic Success. For more information on these resources, see <xref ref="StudentResources"/>.
+      </p>
+
+      <p>
+        Exams will be completed in class and will follow a traditional format. Approximately 50% of each exam will consist of problems taken directly from the study packet. The remaining questions will be drawn from or modeled on problems from the Required Practice problem sets, Preclass Assignments, Groupwork Assignments, and Quizzes.
+      </p>
+  </subsubsection>
+
+  <subsubsection xml:id="exam-revisions">
+    <title>Exam Revisions</title>
+          <p>
+        Students who are meeting course expectations will have the opportunity to earn back partial credit by submitting written reflections and corrected solutions after receiving a graded exam. This revision process is designed to reinforce understanding and promote deeper learning, as well as allowing students to learn from their mistakes.
+      </p>
+      <p>
+        To be eligible for exam revision credit, students must meet the following requirements:
+      </p>
+      <ul>
+        <li>
+          <p>Maintain an <alert>average class attendance</alert> of at least <alert>85%</alert>.</p>
+        </li>
+        <li>
+          <p>
+            Maintain a <alert>Required Practice Journal</alert> in which every section is present and at least 70% complete.
+          </p>
+        </li>
+        <li>
+          <p>
+            Attend a <alert>MavPASS session</alert> for each Required Practice problem set that is below 70% completion.
+          </p>
+        </li>
+      </ul>
+      <p>
+        As your instructor, I fully expect you to make mistakes—that’s part of the learning process. However, it remains essential that you approach each exam with serious preparation and genuine effort. Revisions are not a substitute for studying; they are a structured opportunity to reflect on your performance, identify patterns in your understanding, and strengthen the academic habits that support long-term success.
+      </p>
+
+      <p>
+        The revision process is designed to help you engage more deeply with the material and to develop critical skills such as self-assessment, persistence, and metacognitive awareness. If one or more exams do not go as planned, revisions allow you to recover some credit while learning how to better prepare for future assessments.
+      </p>
+
+      <p>
+        That said, revisions should not be viewed as a fallback or safety net. Students who rely on revisions instead of putting forth their best effort from the outset often fall behind in the course and struggle to catch up. Use revisions as a learning tool—not a crutch. The goal is not just to improve your grade, but to grow as an independent and resilient learner.
+      </p>
+  </subsubsection>
+
+  <subsubsection xml:id="final-project">
+    <title>Final Project</title>
+    <p>
+          For your final project, you will produce a <em>creative work</em> summarizing your learning throughout the semester.
+          You will <em>briefly</em> (1-2 minutes each) present your work the last day of class.
+          This presentation should be a brief description of the project, challenges encountered and overcome (or not), and key takeaways from your project.
+        </p>
+        <p>
+          In prior semesters, students have produced paintings, sculptures, short films, children's books, board games,
+          novellas, infographics, comic books, five-paragraph essays, and slide presentation.
+          (<alert>Fair warning:</alert> These last two have tended to fair the worst on meeting the project goals...).
+        </p>
+        <p>
+          The <alert>primary goal</alert> of your final project is to <em>summarize your learning from the semester</em>
+          and <em>organize your thoughts about the material and how various topics throughout the semester are related</em>.
+          Your chosen format can elevate or denigrate the information you choose to include.
+        </p>
+        <p>
+          A rubric for this project will be posted about halfway through the semester to help guide you in
+          executing your project.
+        </p>
+  </subsubsection>
+
+  <subsubsection xml:id="final-exam">
+    <title>Final Exam</title>
+      <p>
+          I consider the purpose of a final exam to be for students to revisit their learning from throughout the semester
+          with the broad perspective they've gained by completing all course work. We must present information in a particular
+          order, but information is often not strictly linear. You will often find new insights on early course material
+          from things learned late in the term. Similarly, you may re-evaluate later knowledge having refreshed topics
+          from early in the semester.
+        </p>
+        <p>
+          Given this perspective on finals, much of this is instead accomplished by your final project. Consequently, 
+          the final exam in this class is optional -- you may use it to replace one prior exam score, which is
+          particularly helpful if you had an off-day or exceptionally busy week when one of the prior exams occured.
+          Note, you may take the exam first and then decide wether or not it should be graded based on if you think
+          you did better or worse than your previous lowest exam mark. If you choose to have the final exam graded,
+          it <em>will</em> replace your lowest exam score, better or worse.
+        </p>
+  </subsubsection>
+</subsection>
