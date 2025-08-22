@@ -127,17 +127,41 @@
         </p>
   </subsubsection>
 
-  <subsubsection xml:id="required-practice">
+<subsubsection xml:id="required-practice">
     <title>Learning Problems Journal</title>
-      <p>
-          This is a journal you will keep to record your progress on the learning problems sets assigned on D2L for each section of the textbook. Each set is awarded 1 point for 50-70% or 2 points for 70%+ completion. You must mostly complete all of these problem sets to be eligible to revise exams for partial credit back.
+        <p>
+          You will keep a journal to document your work on the Learning Problems sets assigned on D2L for each topic of the course.
+          While lectures will initially introduce you to key concepts and ideas, the real learning happens when you actively engage with the Learning Problems. 
+          Lectures outline <em>what</em> to do; the Learning Problems give you the variety, practice, and repetition needed to figure out <em>how</em> to actually do it.
         </p>
-  </subsubsection>
+        <p>
+          These sets are graded for completion: 1 point for completing at least 50–70%, and 2 points for completing more than 70%. These completion levels are strong indicators of overall success in the course.
+          If you're aiming for a high grade (especially an A), you are strongly encouraged to complete all problems thoroughly and on time, and to carefully write out clear, organized solutions in your journal.
+        </p>
+        <p>
+          Your journal must be submitted for review at each quiz and exam. These are the only <q>real</q> deadlines for the Learning Problems, although suggested target dates will be posted with each set to help prevent them from piling up. Submitting your journal allows me to monitor your progress and provide feedback when necessary.
+        </p>
+        <p>
+          Many of my previous Calculus II students offer the following advice:
+        </p>
+        <ul>
+            <li>Start each Learning Problem set the day the material is introduced, even if you don’t finish it right away.</li>
+            <li>Use the problems to uncover your questions early—don’t wait until the night before a quiz.</li>
+            <li>If you get stuck, don’t stay stuck. Ask Dr. H, visit the MLC or library tutors, or attend a MavPASS session.</li>
+            <li>Do the problems yourself—reading solutions or watching videos is not a substitute for active practice.</li>
+        </ul>
+        <p>
+          To be eligible to revise exams for partial credit, you must have mostly completed all assigned Learning Problem sets relevant to the exam. 
+          You can also earn up to two Learning Problems points per week by attending MavPASS sessions.
+          Later in the semester, if appropriate, I may allow students to apply <q>excess</q> Learning Problem points toward limited exceptions to course policies—such as extensions on late assignments or removal of absences from the attendance record.
+        </p>
+</subsubsection>
 
   <subsubsection xml:id="quizzes">
     <title>Quizzes</title>
       <p>
-          These will consist of 2-4 problems from the indicated sections. These problems are similar to those found on the Learning Problems sets or in-class groupworks. These will take half of the class period, and we will immediately review the quiz for the remainder of the class period.
+          These will consist of 2-4 problems from the indicated sections.
+          These problems are similar to those found on the Learning Problems sets, in-class groupworks, or preclass assignments. Often I may allow questions immediately before the quiz, with the quiz taking approximately half of the class period. If time allows, we may immediately review some or all of the quiz for the remainder of the class period.
           Your lowest quiz score will be dropped when calculating your final course mark at the end of the semester.
         </p>
   </subsubsection>
@@ -175,12 +199,12 @@
         </li>
         <li>
           <p>
-            Maintain a <alert>Learning Problems Journal</alert> in which every section is present and at least 70% complete.
+            Earn all <alert>Learning Problems</alert> points (70% completion) of material relevant to the exam.
           </p>
         </li>
         <li>
           <p>
-            Attend a <alert>MavPASS session</alert> for each Learning Problems set that is below 70% completion.
+            You may substitute some partially or incomplete sessions by <alert>attending MavPASS sessions</alert>, at most 2 points per week.
           </p>
         </li>
       </ul>
