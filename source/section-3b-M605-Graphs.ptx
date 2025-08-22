@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="section-3b" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>MATH605 - Graphs and Algorithms</title>
+  <introduction>
+    <p>
+      This course introduces students to linear programming techniques, with a particular emphasis on the simplex algorithm and its applications in combinatorial optimization. Topics include fractional relaxations of classical graph parameters such as the vertex cover number, independence number, chromatic number, and matching number, as well as Delsarte’s linear programming bound in the context of association schemes and coding theory.
+    </p>
+    <p>
+      Time permitting, we will also explore the fundamentals of semidefinite programming and its role in combinatorial optimization, through topics such as Lovász’s theta function for Shannon capacity, the Goemans-Williamson approximation algorithm for Max-Cut, and Schrijver’s contributions to coding theory.
+    </p>
+    <p>
+      Additional applications of semidefinite programming, potentially covering areas such as association schemes, extremal combinatorics, and topological graph theory, may be discussed depending on time and student interest.
+    </p>
+  </introduction>
+
+  <xi:include href="./M605/605Outline.ptx" /> <!-- Course Outline -->
+
+</section>
+
+
+
+<!-- 
+{\centering\Large\textbf{Course Description}\par}
+
+\noindent \underline{\textbf{Overview}}:
+
+Linear programming is one of the most fundamental tool in optimization and discrete mathematics with numerous applications. Linear programs are efficiently solvable and have a powerful duality theory.
+An important method in combinatorial optimization is to write the problem as a linear program with integer variables.
+We then forget the integrality constraints and we obtain a linear relaxation which can be solved efficiently.
+Linear programs are special cases of convex programs.
+Semidefinite programs are more general convex programs to which many of the nice properties of linear programs extend. These semidefinite relaxations are still efficiently computable, but approximate the optimum much better.
+Semidefinite programming methods have been successful in obtaining the best possible results for several important problems and some of the highlights include Lov\`asz work in computing the Shannon capacity of a graph and Goemans-Williamson 0.878 approximation for the max-cut of graph (the maximum number of edges between the two parts of a partition of the vertex set).
+The course will be introduction to the linear and semidefinite programming methods and their applications in combinatorial optimization.
+
+\vspace{.5em}
+\noindent\underline{\textbf{Topics}}:
+
+\noindent
+Linear programming basics (linear program, simplex method, Farkas lemma, duality, applications to fractional graph theory, max-weight matching, polyhedral combinatorics, fractional chromatic number, Delsarte’s linear programming bound in association schemes and coding theory).
+
+Semidefinite programming basics (semidefinite program, semidefinite version of Farkas lemma, semidefinite duality, algorithms for semidefinite programming (ellipsoid method and interior point/barrier method), Shannon capacity, Lov\'sz theta function, Goemans-Williamson approximation of maxcut)
+\vspace{.5em}
+
+-->

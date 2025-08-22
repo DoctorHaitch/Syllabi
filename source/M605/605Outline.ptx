@@ -1,0 +1,37 @@
+<subsection>
+  <title>Course Outline</title>
+  <p>
+    Linear programming is a fundamental tool in optimization and discrete mathematics, with numerous applications. Linear programs are efficiently solvable and possess a rich duality theory. A central strategy in combinatorial optimization is to formulate problems as integer linear programs, then relax the integrality constraints to obtain linear programs that are easier to solve. 
+  </p>
+  <p>
+    Linear programs are a subset of convex optimization problems. Semidefinite programming (SDP) extends linear programming to a broader class of convex programs, retaining many of the desirable properties of LPs while often providing tighter approximations. SDP methods have achieved groundbreaking results in combinatorial optimization, such as Lovász’s work on Shannon capacity and the Goemans–Williamson 0.878-approximation algorithm for Max-Cut.
+  </p>
+  <p>
+    This course provides an introduction to linear and semidefinite programming methods and their applications in combinatorial optimization.
+  </p>
+  <p>
+    The course will be organized around the following main topics:
+  </p>
+  <ol>
+    <li>
+      <p>
+        <strong>Linear Programming and the Simplex Method:</strong> We will cover the foundations of linear programming, including duality theory, Bland’s rule, simplex tableaux, and basic computational implementations.
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Graph Theory and Graph Invariants:</strong> This includes fundamental definitions, graph representations, an introduction to spectral graph theory, strongly regular graphs, and classical graph invariants (e.g., chromatic number, independence number) along with their fractional relaxations and how these can be analyzed using LP techniques.
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Association Schemes and Coding Theory:</strong> Topics include the algebraic structure of association schemes, with a focus on Hamming and Johnson schemes, leading to Delsarte’s Linear Programming bound. These tools will illuminate connections between algebra, graph theory, and optimization in addressing extremal problems in coding theory and communication.
+      </p>
+    </li>
+    <li>
+      <p>
+        <strong>Semidefinite Programming:</strong> If time permits, we will explore further applications of semidefinite programming in combinatorial optimization, including more advanced examples from graph theory, coding theory, and extremal combinatorics.
+      </p>
+    </li>
+  </ol>
+</subsection>
