@@ -11,19 +11,19 @@
 
   <ol>
     <li>
-      <bibl>
+      
         Jiří Matoušek and Bernd Gärtner.
-        <title>Understanding and Using Linear Programming</title>.
+        <em>Understanding and Using Linear Programming</em>.
         Springer, 2007.
-      </bibl>
+      
     </li>
     <li>
-      <bibl>
+      
         Jiří Matoušek and Bernd Gärtner.
-        <title>Approximation Algorithms and Semidefinite Programming</title>.
+        <em>Approximation Algorithms and Semidefinite Programming</em>.
         Springer, 2012.
         (Available freely through the library as a PDF.)
-      </bibl>
+      
     </li>
   </ol>
 
@@ -31,30 +31,30 @@
 
   <ul>
     <li>
-      <bibl>
+      
         Vašek Chvátal.
-        <title>Linear Programming</title>.
+        <em>Linear Programming</em>.
         A Series of Books in the Mathematical Sciences.
         W. H. Freeman and Company, New York, 1983. xiii+478 pp.
         ISBN: 0-7167-1195-8; 0-7167-1587-2.
-      </bibl>
+      
     </li>
     <li>
-      <bibl>
+      
         A. Schrijver.
-        <title>Theory of Linear and Integer Programming</title>.
+        <em>Theory of Linear and Integer Programming</em>.
         Wiley-Interscience Series in Discrete Mathematics.
         John Wiley &amp; Sons, Ltd., Chichester, 1986. xii+471 pp.
         ISBN: 0-471-90854-1.
-      </bibl>
+      
     </li>
     <li>
-      <bibl>
+      
         László Lovász.
-        <title>Semidefinite Programs and Combinatorial Optimization</title>.
-        In <booktitle>Recent Advances in Algorithms and Combinatorics</booktitle>, 137–194,
+        <em>Semidefinite Programs and Combinatorial Optimization</em>.
+        In <alert>Recent Advances in Algorithms and Combinatorics</alert>, 137–194,
         CMS Books Math./Ouvrages Math. SMC, 11, Springer, New York, 2003.
-      </bibl>
+      
     </li>
     <li>
       <p>Lecture notes by Monique Laurent and Frank Vallentin (updated version available on the D2L site).</p>
