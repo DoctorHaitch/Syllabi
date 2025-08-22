@@ -1,0 +1,23 @@
+<subsection xml:id="prerequisites">
+  <title>Prerequisites</title>
+
+  <p>
+    Students are expected to have completed the following courses, or have obtained consent from the instructor:
+  </p>
+
+  <ul>
+    <li>
+      <c>Math 375</c>: <em>Introduction to Discrete Mathematics</em> — covering logic, sets, combinatorics, graphs, and basic proof techniques.
+    </li>
+    <li>
+      <c>Math 417</c> or <c>Math 517</c>: <em>Introductory Real Analysis</em> — foundational concepts of analysis including limits, continuity, and convergence.
+    </li>
+    <li>
+      <c>Math 447</c> or <c>Math 547</c>: <em>Linear Algebra</em> — including vector spaces, linear transformations, eigenvalues, and matrix theory.
+    </li>
+  </ul>
+
+  <p>
+    If you have not taken these courses but believe you have the equivalent background, please consult the instructor for approval.
+  </p>
+</subsection>

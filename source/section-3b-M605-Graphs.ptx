@@ -14,31 +14,45 @@
   </introduction>
 
   <xi:include href="./M605/605Outline.ptx" /> <!-- Course Outline -->
-
+  <xi:include href="./M605/Prereqs.ptx" /> <!-- Prerequisite Knowledge -->
+  <xi:include href="./M605/StudentResources.ptx" /> <!-- Student Resources -->
+  <xi:include href="./M605/CourseAssessments.ptx" /> <!-- Course Assessments -->
+  <xi:include href="./M605/CourseGrades.ptx" /> <!-- Course Grades -->
 </section>
 
 
 
 <!-- 
-{\centering\Large\textbf{Course Description}\par}
+\noindent\underline{\textbf{Textbooks and Resources}}:
 
-\noindent \underline{\textbf{Overview}}:
+The books of Bernd G\"{a}rtner and Jiri Matou\{u}sek books below.
 
-Linear programming is one of the most fundamental tool in optimization and discrete mathematics with numerous applications. Linear programs are efficiently solvable and have a powerful duality theory.
-An important method in combinatorial optimization is to write the problem as a linear program with integer variables.
-We then forget the integrality constraints and we obtain a linear relaxation which can be solved efficiently.
-Linear programs are special cases of convex programs.
-Semidefinite programs are more general convex programs to which many of the nice properties of linear programs extend. These semidefinite relaxations are still efficiently computable, but approximate the optimum much better.
-Semidefinite programming methods have been successful in obtaining the best possible results for several important problems and some of the highlights include Lov\`asz work in computing the Shannon capacity of a graph and Goemans-Williamson 0.878 approximation for the max-cut of graph (the maximum number of edges between the two parts of a partition of the vertex set).
-The course will be introduction to the linear and semidefinite programming methods and their applications in combinatorial optimization.
-
-\vspace{.5em}
-\noindent\underline{\textbf{Topics}}:
+\begin{enumerate}
+  \item Ji\u r\'i Matou\u sek and Bernd G\"artner, Understanding and Using Linear Programming, Springer 2007.
+  \item Ji\u r\'i Matou\u sek and Bernd G\"artner, Approximation Algorithms and Semidefinite Programming, Springer 2012. (Available freely through the library as a PDF)
+\end{enumerate}
 
 \noindent
-Linear programming basics (linear program, simplex method, Farkas lemma, duality, applications to fractional graph theory, max-weight matching, polyhedral combinatorics, fractional chromatic number, Delsarte’s linear programming bound in association schemes and coding theory).
+Other resources are
 
-Semidefinite programming basics (semidefinite program, semidefinite version of Farkas lemma, semidefinite duality, algorithms for semidefinite programming (ellipsoid method and interior point/barrier method), Shannon capacity, Lov\'sz theta function, Goemans-Williamson approximation of maxcut)
-\vspace{.5em}
+\begin{itemize}
+  \item Va\v sek Chv\' atal \emph{Linear programming} A Series of Books in the Mathematical Sciences. W. H. Freeman and Company, New York, 1983. xiii+478 pp. ISBN: 0-7167-1195-8; 0-7167-1587-2
+  \item A. Schrijver \emph{Theory of linear and integer programming}. Wiley-Interscience Series in Discrete Mathematics. A Wiley-Interscience Publication. John Wiley \& Sons, Ltd., Chichester, 1986. xii+471 pp. ISBN: 0-471-90854-1
+  \item L. Lov\'a sz \emph{Semidefinite programs and combinatorial optimization} Recent advances in algorithms and combinatorics, 137–194, CMS Books Math./Ouvrages Math. SMC, 11, Springer, New York, 2003.
+  \item The lecture notes of Monique Laurent and Frank Vallentin: (Updated version posted to D2L site).
+  \item The lecture notes of Ryan O’Donnell:
+  
+  \url{http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/}
+  
+  \item The lecture notes of Bill Martin:
+  
+  \url{http://users.wpi.edu/~martin/RESEARCH/CIMPA/}
+\end{itemize}
 
+\vspace{1em}
+
+
+\noindent\underline{\textbf{Course Grading Scheme}}:
+
+55/15/15/15, Ungrading, Exam 1, Final Exam, Project
 -->

@@ -1,0 +1,71 @@
+<subsection xml:id="textbooks-and-resources">
+  <title>Textbooks and Resources</title>
+
+  <p>
+    Course notes will be provided throughout the semester. Much of this material will be written and updated as the course progresses, so please stay engaged, read carefully, work through the details, and report any typos or errors to the instructor for correction.
+  </p>
+
+  <p>
+    Much of the course content is adapted from the following texts by Bernd Gärtner and Jiří Matoušek:
+  </p>
+
+  <ol>
+    <li>
+      <bibl>
+        Jiří Matoušek and Bernd Gärtner.
+        <title>Understanding and Using Linear Programming</title>.
+        Springer, 2007.
+      </bibl>
+    </li>
+    <li>
+      <bibl>
+        Jiří Matoušek and Bernd Gärtner.
+        <title>Approximation Algorithms and Semidefinite Programming</title>.
+        Springer, 2012.
+        (Available freely through the library as a PDF.)
+      </bibl>
+    </li>
+  </ol>
+
+  <p>Additional resources include:</p>
+
+  <ul>
+    <li>
+      <bibl>
+        Vašek Chvátal.
+        <title>Linear Programming</title>.
+        A Series of Books in the Mathematical Sciences.
+        W. H. Freeman and Company, New York, 1983. xiii+478 pp.
+        ISBN: 0-7167-1195-8; 0-7167-1587-2.
+      </bibl>
+    </li>
+    <li>
+      <bibl>
+        A. Schrijver.
+        <title>Theory of Linear and Integer Programming</title>.
+        Wiley-Interscience Series in Discrete Mathematics.
+        John Wiley &amp; Sons, Ltd., Chichester, 1986. xii+471 pp.
+        ISBN: 0-471-90854-1.
+      </bibl>
+    </li>
+    <li>
+      <bibl>
+        László Lovász.
+        <title>Semidefinite Programs and Combinatorial Optimization</title>.
+        In <booktitle>Recent Advances in Algorithms and Combinatorics</booktitle>, 137–194,
+        CMS Books Math./Ouvrages Math. SMC, 11, Springer, New York, 2003.
+      </bibl>
+    </li>
+    <li>
+      <p>Lecture notes by Monique Laurent and Frank Vallentin (updated version available on the D2L site).</p>
+    </li>
+    <li>
+      <p>Lecture notes by Ryan O’Donnell:</p>
+      <url href="http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/"/>
+    </li>
+    <li>
+      <p>Lecture notes by Bill Martin:</p>
+      <url href="http://users.wpi.edu/~martin/RESEARCH/CIMPA/"/>
+    </li>
+  </ul>
+</subsection>
