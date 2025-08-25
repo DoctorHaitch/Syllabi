@@ -1,1 +1,8 @@
-<p>Need to write section on grade assignments</p>
+<subsection xml:id="sec-Course-Grades">
+    <title>Course Grades</title>
+    <p>
+        Final letter grades will be assigned based on the weighted averages outlined above.
+        Specific gradelines will be drawn after all course grades are calculated based on student work in alignment with
+        the university policy for graduate students outlined in <xref ref="univ-grading" />.
+    </p>
+</subsection>

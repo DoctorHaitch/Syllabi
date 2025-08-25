@@ -1,1 +1,72 @@
-<p> Need to write assessments outline </p>
+<subsection xml:id="course-assessments-605">
+  <title>Course Assessments</title>
+
+  <introduction>
+    <p>
+      Assessments in Math 605 will consist of two in-person exams (a midterm and final, worth 15% each), a computer project (15%), and a final reflective report based on your semester-long journal (55%).
+    </p>
+    <p>
+      Problem sets will be posted every few weeks but will not be collected or graded. You are expected to work collaboratively, seek help when needed, and evaluate your own understanding of the material.
+    </p>
+  </introduction>
+
+  <subsubsection xml:id="subsubsec-Exams">
+    <title>Exams</title>
+
+    <p>
+      There will be both a midterm and a final exam. The midterm will be announced at least one week in advance, along with a short list of topics to guide your preparation. The final exam will take place according to the University's exam schedule, during the first class period that would occur in finals week.
+    </p>
+
+    <p>
+      Each exam is worth 15% of your final course grade.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="subsubsec-Computer-Project">
+    <title>Computer Project</title>
+
+    <p>
+      Midway through the semester, a computing project will be assigned either individually or in small groups of two. The project will involve reading and summarizing a relevant research paper, and implementing a linear or semidefinite programming algorithm to solve one or more problems discussed in that paper or a comparable resource.
+    </p>
+
+    <p>
+      The computer project and report is worth 15% of your final course grade.
+    </p>
+  </subsubsection>
+
+  <subsubsection xml:id="ungrading-journal-report">
+    <title>Reflective Journal and Final Report</title>
+
+    <p>
+      A significant portion of your grade (55%) will be based on a reflective report supported by a personal journal that you will maintain throughout the semester. This journal should document your ongoing engagement with the course outside of scheduled class time.
+    </p>
+
+    <p>
+      The journal should log your time spent and summarize your work on tasks such as:
+    </p>
+
+    <ul>
+      <li>Attempting and revising Learning Problem sets</li>
+      <li>Studying lecture notes and revisiting course material</li>
+      <li>Collaborating with peers in discussions or study groups</li>
+      <li>Attending office hours or scheduling additional help sessions</li>
+      <li>Emailing questions or feedback related to course content</li>
+      <li>Reading assigned or recommended references</li>
+      <li>Proofreading the course notes and offering constructive feedback</li>
+      <li>Other meaningful forms of engagement, including participation during class</li>
+    </ul>
+
+    <p>
+      At the end of the semester, you will submit a final reflective report that synthesizes insights from your journal and presents a well-reasoned argument for the grade you believe reflects your work in this part of the course. The report should critically assess your engagement, growth, and consistency, and must include selected journal excerpts to support your reflection.
+    </p>
+
+    <p>
+      While there is no fixed number of entries required, regular and thoughtful journaling is expected, in line with the university's credit hour policy (6–9 hours per week of work outside class). Your final report should go beyond a simple summary — it should demonstrate how your efforts contributed to your learning over the semester.
+    </p>
+
+    <p>
+      This ungrading model emphasizes intrinsic motivation, self-awareness, and the development of professional habits of mind. It also recognizes that meaningful learning can take many forms not easily captured through traditional assessments.
+    </p>
+  </subsubsection>
+
+</subsection>
