@@ -15,7 +15,7 @@
     <xi:include href="./section-2-CoursePolicies.ptx" />
 
     <xi:include href="./section-3a-M122-Calc2.ptx" />
-    <xi:include href="./section-3b-M605-Graphs.ptx" />
+<!--    <xi:include href="./section-3b-M605-Graphs.ptx" />. -->
 
     <!-- <xi:include href="./section-4-TipsForSuccess.ptx" /> -->
     <xi:include href="./section-5-StudentResources.ptx" />
