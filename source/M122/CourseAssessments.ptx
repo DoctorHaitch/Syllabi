@@ -18,7 +18,7 @@
       <row bottom="minor">
         <cell halign="left"><p><xref ref="foundations1" text="custom">Foundations Assessment 1</xref></p></cell>
         <cell halign="center">5%</cell>
-        <cell halign="left"><p>Take-home quiz focused on foundational algebra skills. Open-resource.</p></cell>
+        <cell halign="left"><p>Take-home quiz focused on foundational algebra skills. Open-resource. Graded primarily for completion.</p></cell>
       </row>
       <row bottom="minor">
         <cell halign="left"><p><xref ref="foundations2" text="custom">Foundations Assessment 2</xref></p></cell>
@@ -40,25 +40,33 @@
         <cell halign="center">7.5%</cell>
         <cell halign="left"><p>Homework journal tracking progress on assigned problem sets posted on D2L.</p></cell>
       </row>
-      <row bottom="minor">
+<!--      <row bottom="minor">
         <cell halign="left"><p><xref ref="quizzes" text="custom">Quizzes (5)</xref></p></cell>
         <cell halign="center">20%</cell>
         <cell halign="left"><p>In-class quizzes on recent material. Your lowest score will be dropped.</p></cell>
       </row>
+-->
+<!--
       <row bottom="minor">
         <cell halign="left"><p><xref ref="exams" text="custom">Exams (3)</xref></p></cell>
         <cell halign="center">40%</cell>
         <cell halign="left"><p>(17% + 13% + 10%) Chapter-based exams covering material from class, practice problems, and quizzes.</p></cell>
       </row>
+-->
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="exams" text="custom">Exams (5)</xref></p></cell>
+        <cell halign="center">60%</cell>
+        <cell halign="left"><p>(18% + 15% + 12% + 10% + 5%) "Chapter" exams covering material from class (lecture and group works) and learning problems.</p></cell>
+      </row>
       <row bottom="minor">
         <cell halign="left"><p><xref ref="final-project" text="custom">Final Project</xref></p></cell>
         <cell halign="center">15%</cell>
-        <cell halign="left"><p>A creative final presentation summarizing your learning. See description below.</p></cell>
+        <cell halign="left"><p>A creative final project summarizing your learning. See description below.</p></cell>
       </row>
       <row bottom="major">
         <cell halign="left"><p><xref ref="final-exam" text="custom">Final Exam</xref></p></cell>
         <cell halign="center">---</cell>
-        <cell halign="left"><p><em>Optional:</em> May replace your lowest exam score (better or worse). You can choose to have it graded after completing it.</p></cell>
+        <cell halign="left"><p><em>Optional:</em> Will replace your lowest exam score (better or worse). You can choose if it should be graded after completing it.</p></cell>
       </row>
     </tabular>
 
@@ -128,35 +136,45 @@
   </subsubsection>
 
 <subsubsection xml:id="required-practice">
-    <title>Learning Problems Journal</title>
-        <p>
-          You will keep a journal to document your work on the Learning Problems sets assigned on D2L for each topic of the course.
-          While lectures will initially introduce you to key concepts and ideas, the real learning happens when you actively engage with the Learning Problems. 
-          Lectures outline <em>what</em> to do; the Learning Problems give you the variety, practice, and repetition needed to figure out <em>how</em> to actually do it.
-        </p>
-        <p>
-          These sets are graded for completion: 1 point for completing at least 50–70%, and 2 points for completing more than 70%. These completion levels are strong indicators of overall success in the course.
-          If you're aiming for a high grade (especially an A), you are strongly encouraged to complete all problems thoroughly and on time, and to carefully write out clear, organized solutions in your journal.
-        </p>
-        <p>
-          Your journal must be submitted for review at each quiz and exam. These are the only <q>real</q> deadlines for the Learning Problems, although suggested target dates will be posted with each set to help prevent them from piling up. Submitting your journal allows me to monitor your progress and provide feedback when necessary.
-        </p>
-        <p>
-          Many of my previous Calculus II students offer the following advice:
-        </p>
-        <ul>
-            <li>Start each Learning Problem set the day the material is introduced, even if you don’t finish it right away.</li>
-            <li>Use the problems to uncover your questions early—don’t wait until the night before a quiz.</li>
-            <li>If you get stuck, don’t stay stuck. Ask Dr. H, visit the MLC or library tutors, or attend a MavPASS session.</li>
-            <li>Do the problems yourself—reading solutions or watching videos is not a substitute for active practice.</li>
-        </ul>
-        <p>
-          To be eligible to revise exams for partial credit, you must have mostly completed all assigned Learning Problem sets relevant to the exam. 
-          You can also earn up to two Learning Problems points per week by attending MavPASS sessions.
-          Later in the semester, if appropriate, I may allow students to apply <q>excess</q> Learning Problem points toward limited exceptions to course policies—such as extensions on late assignments or removal of absences from the attendance record.
-        </p>
+  <title>Learning Problems Journal</title>
+
+  <p>
+    You will keep a journal documenting your work on the Learning Problem sets assigned on D2L for each topic in the course.
+    While lectures introduce key ideas and techniques, most learning occurs when you actively engage with these problems.
+    Lectures outline <em>what</em> to do; the Learning Problems provide the variety, practice, and repetition needed to learn <em>how</em> to do it reliably.
+  </p>
+
+  <p>
+    Learning Problem sets are graded for completion: you earn 1 point for completing all odd-numbered problems, and 2 points for also completing at least half of the even-numbered problems.
+    These completion levels are strong indicators of overall success in the course.
+    If you are aiming for a high grade (especially an A), you are strongly encouraged to complete all problems carefully, on or near target dates, and to write out clear, organized solutions in your journal.
+  </p>
+
+  <p>
+    Your journal must be submitted for review at or before each exam. These are the only <q>real</q> deadlines for the Learning Problems.
+    Suggested target dates will be posted with each set to help you pace your work and avoid last-minute backlogs.
+    Submitting your journal allows me to monitor your progress and provide feedback when appropriate.
+    If you complete a set early, you may bring your journal to office hours for a brief review and discussion of general issues (such as organization, completeness, or notation); I will not be checking every step for correctness, but you are always welcome to ask questions about specific problems and details.
+  </p>
+
+  <p>
+    Many former Calculus II students offer the following advice:
+  </p>
+
+  <ul>
+    <li>Start each Learning Problem set the day the material is introduced, even if you do not finish it immediately.</li>
+    <li>Use the problems to identify questions early—do not wait until a night or two before an exam.</li>
+    <li>If you get stuck, do not stay stuck. Ask Dr. H, visit the MLC or library tutors, or attend a MavPASS session.</li>
+    <li>Do the problems yourself—reading solutions, following tutors or AI, or watching videos is not a substitute for active practice.</li>
+  </ul>
+
+  <p>
+    To be eligible to revise exams for partial credit, you must have earned at least 90% of the assigned Learning Problem points relevant to that exam (applies to the first four exams).
+    You may also earn one Learning Problem point per week by attending a MavPASS session.
+  </p>
 </subsubsection>
 
+<!--
   <subsubsection xml:id="quizzes">
     <title>Quizzes</title>
       <p>
@@ -165,15 +183,16 @@
           Your lowest quiz score will be dropped when calculating your final course mark at the end of the semester.
         </p>
   </subsubsection>
+-->
 
   <subsubsection xml:id="exams">
     <title>Exams</title>
     <p>
-        About one week prior to each chapter exam, a practice problem set will be posted. These sets will include approximately 80 problems, some of which will appear directly on the exam. If you have been consistently completing the Learning Problems sets, this packet will serve as effective review and reinforcement.
+        At least one week prior to each chapter exam, a practice problem set will be posted. These sets will include additional problems similar to the Learning Problem sets, some of which often appear directly on the exam. If you have been consistently completing the Learning Problems sets, this packet will serve as effective review and reinforcement.
       </p>
 
       <p>
-        However, if you have not completed the ongoing practice, it is not realistic to expect that you can work through the entire problem set in the time available. Instead, use it strategically: scan through the problems to identify content areas where you feel uncertain or cannot immediately determine how to begin. If you find yourself unable to sketch out a general solution process for a problem, that topic likely needs further review.
+        However, it is not realistic to expect that you can work through the entire problem set in the time available. Instead, use it strategically: scan through the problems to identify content areas where you feel uncertain or cannot immediately determine how to begin. If you find yourself unable to sketch out a general solution process for a problem, that topic likely needs further review.
       </p>
 
       <p>
@@ -181,14 +200,14 @@
       </p>
 
       <p>
-        Exams will be completed in class and will follow a traditional format. Approximately 50% of each exam will consist of problems taken directly from the study packet. The remaining questions will be drawn from or modeled on problems from the Learning Problems sets, Preclass Assignments, Groupwork Assignments, and Quizzes.
+        Exams will be completed in class and will follow a traditional format. Some of each exam will consist of problems taken directly from the study packet. The remaining questions will be drawn from or modeled on problems from the Learning Problems sets, Preclass Assignments, and in-class Groupwork Assignments.
       </p>
   </subsubsection>
 
   <subsubsection xml:id="exam-revisions">
     <title>Exam Revisions</title>
           <p>
-        Students who are meeting course expectations will have the opportunity to earn back partial credit by submitting written reflections and corrected solutions after receiving a graded exam. This revision process is designed to reinforce understanding and promote deeper learning, as well as allowing students to learn from their mistakes.
+        Students who are meeting course engagement expectations will have the opportunity to earn back partial credit by submitting written reflections and corrected solutions after receiving a marked exam. This revision process is designed to reinforce understanding and promote deeper learning, as well as encouraging students to learn directly from their mistakes.
       </p>
       <p>
         To be eligible for exam revision credit, students must meet the following requirements:
@@ -204,7 +223,7 @@
         </li>
         <li>
           <p>
-            You may substitute some partially or incomplete sessions by <alert>attending MavPASS sessions</alert>, at most 2 points per week.
+            You may substitute some partially or incomplete sessions by <alert>attending MavPASS sessions</alert>.
           </p>
         </li>
       </ul>
@@ -249,17 +268,18 @@
       <p>
           I consider the purpose of a final exam to be for students to revisit their learning from throughout the semester
           with the broad perspective they've gained by completing all course work. We must present information in a particular
-          order, but information is often not strictly linear. You will often find new insights on early course material
+          order, but knowledge is rarely strictly linear. You will often find new insights on early course material
           from things learned late in the term. Similarly, you may re-evaluate later knowledge having refreshed topics
           from early in the semester.
         </p>
         <p>
-          Given this perspective on finals, much of this is instead accomplished by your final project. Consequently, 
+          Given this perspective on finals, much of this should instead be accomplished by your final project. Consequently, 
           the final exam in this class is optional -- you may use it to replace one prior exam score, which is
-          particularly helpful if you had an off-day or exceptionally busy week when one of the prior exams occured.
+          particularly helpful if you had an off-day or exceptionally busy week when one of the prior exams occurred.
           Note, you may take the exam first and then decide wether or not it should be graded based on if you think
           you did better or worse than your previous lowest exam mark. If you choose to have the final exam graded,
-          it <em>will</em> replace your lowest exam score, better or worse.
+          it <em>will</em> replace your lowest exam score, better or worse, but your lowest exam score also only counts
+          for 5% of your overall course average.
         </p>
   </subsubsection>
 </subsection>

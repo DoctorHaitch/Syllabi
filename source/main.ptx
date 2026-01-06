@@ -6,7 +6,7 @@
   </docinfo>
 
   <article xml:id="shorttitlelowercase">
-    <title>Course Syllabi, Fall 2025</title>
+    <title>Course Syllabi, Spring 2026</title>
 
     <xi:include href="./frontmatter.ptx" />
     
@@ -15,7 +15,7 @@
     <xi:include href="./section-2-CoursePolicies.ptx" />
 
     <xi:include href="./section-3a-M122-Calc2.ptx" />
-    <xi:include href="./section-3b-M605-Graphs.ptx" />
+<!--    <xi:include href="./section-3b-M605-Graphs.ptx" /> -->
 
     <!-- <xi:include href="./section-4-TipsForSuccess.ptx" /> -->
     <xi:include href="./section-5-StudentResources.ptx" />

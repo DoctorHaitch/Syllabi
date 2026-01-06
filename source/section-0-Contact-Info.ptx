@@ -32,43 +32,43 @@
 <p>
   <sidebyside>
   <table xml:id="office-hours-schedule">
-    <title>Drop-In Office Hours</title>
+    <title>Drop-In Student Support Hours</title>
     <tabular>
       <row>
         <cell halign="right">Mondays:</cell>
-        <cell halign="left">10:30-11:30am</cell>
+        <cell halign="left">11:30am-12:50pm</cell>
       </row>
       <row>
         <cell halign="right">Tuesday:</cell>
-        <cell halign="left">10:30-11:30am</cell>
+        <cell halign="left">9:00-9:50am</cell>
       </row>
       <row>
-        <cell halign="right">Thursdays:</cell>
-        <cell halign="left">10:30-11:30am</cell>
+        <cell halign="right">Fridays:</cell>
+        <cell halign="left">9:00-9:50am</cell>
       </row>
     </tabular>
   </table>
   <table xml:id="email-office-hours-schedule">
-    <title>Email Support Hours</title>
+    <title>Email Student Support Hours</title>
     <tabular>
       <row>
         <cell halign="right">Mondays:</cell>
-        <cell halign="left">2:30-3:30pm</cell>
+        <cell halign="left">9:00-9:50am</cell>
       </row>
       <row>
-        <cell halign="right">Wednesdays:</cell>
-        <cell halign="left">10:00-11:00am</cell>
+        <cell halign="right">Thursdays:</cell>
+        <cell halign="left">9:00-9:50am</cell>
       </row>
       <row>
         <cell halign="right">Fridays:</cell>
-        <cell halign="left">10:30-11:30am</cell>
+        <cell halign="left">1:00-1:50pm</cell>
       </row>
     </tabular>
   </table>  
   </sidebyside>
 </p>
 <p>
-  Some effective ways use office hours:
+  Some effective ways use student support hours:
   <ul>
     <li>Get help on assigned homework problems.</li>
     <li>Seek clarification on material presented during class.</li>
@@ -80,5 +80,55 @@
   For more detailed advice on how to make the most out of time in office hours, see <xref ref="using-office-hours" />.
 </p>
 
+<subsection xml:id="subsec-emailTemplate">
+  <title>E-Mail Template</title>
+  <introduction>
+    <p>
+      Below is a sample e-mail template you may use when requesting help on specific problems or topics. The example is written in the context of Math 122 (Calculus II), but the same structure and level of detail are appropriate for nearly any course. In general, the more clearly you explain what you have already tried and where you are stuck, the more quickly I can provide focused and useful feedback during the email support hours listed above.
+    </p>
+  </introduction>
+
+  <blockquote>
+    <p>
+      <alert>Example of a helpful email:</alert>
+    </p>
+    <p>
+      Dear Dr. H,
+    </p>
+    <p>
+      I am a student in your Math 122 (Calculus II) course, and I am currently struggling with (Learning Problem / Class Example) related to a specific topic (e.g., integration by parts).
+    </p>
+    <p>
+      Example 1: I attempted the problem by (brief description of the work you tried), but I believe there may be an error in (specific step or assumption).
+    </p>
+    <p>
+      Example 2: I understand that the general steps for this type of problem are (brief outline of the method), but I am getting stuck at (specific step) on several problems. For instance, in problem (number), I am unsure how to proceed after obtaining (previous result).
+    </p>
+    <p>
+      Could you please provide clarification on this problem, or on this type of problem more generally?
+    </p>
+    <p>
+      (Thank you/Sincerely,)
+    </p>
+    <p>
+      (Your name)
+    </p>
+  </blockquote>
+
+  <blockquote>
+    <p>
+      <alert>Example of an unhelpful email (too vague or broad to address efficiently):</alert>
+    </p>
+    <p>
+      Hi,
+    </p>
+    <p>
+      I don’t understand integration by parts. Can you explain it?
+    </p>
+    <p>
+      Thanks
+    </p>
+  </blockquote>
+</subsection>
 
 </section>
