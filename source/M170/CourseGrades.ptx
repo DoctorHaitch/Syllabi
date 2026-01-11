@@ -1,0 +1,59 @@
+<subsection>
+  <title>Earned Letter Grades</title>
+  <introduction>
+    <p>
+      You will earn the following letter grade based on the calculation of your weighted course average based on your demonstration of course learning objections through course assessments.
+    </p>
+  </introduction>
+      <tabular>
+        <col width="10%" />
+        <col width="15%" />
+        <col width="10%" />
+        <col width="15%" />
+        <col width="10%" />
+        <col width="15%" />
+        <row header="yes" bottom="major">
+          <cell halign="center"><p>Letter Grade</p></cell>
+          <cell halign="center"><p>Weighted Average</p></cell>
+          <cell halign="center"><p>Letter Grade</p></cell>
+          <cell halign="center"><p>Weighted Average</p></cell>
+          <cell halign="center"><p>Letter Grade</p></cell>
+          <cell halign="center"><p>Weighted Average</p></cell>
+        </row>
+        <row>
+          <cell halign="center">A</cell>
+          <cell halign="center">[93,100]</cell>
+          <cell halign="center">B-</cell>
+          <cell halign="center">[80,83)</cell>
+          <cell halign="center">D</cell>
+          <cell halign="center">[60,65)</cell>
+        </row>
+        <row>
+          <cell halign="center">A-</cell>
+          <cell halign="center">[90,93)</cell>
+          <cell halign="center">C+</cell>
+          <cell halign="center">[77,80)</cell>
+          <cell halign="center">D-</cell>
+          <cell halign="center">[50,60)</cell>
+        </row>
+        <row>
+          <cell halign="center">B+</cell>
+          <cell halign="center">[87,90)</cell>
+          <cell halign="center">C</cell>
+          <cell halign="center">[70,77)</cell>
+          <cell halign="center">F</cell>
+          <cell halign="center">[0,50)</cell>
+        </row>
+        <row>
+          <cell halign="center">B</cell>
+          <cell halign="center">[83,87)</cell>
+          <cell halign="center">D+</cell>
+          <cell halign="center">[65,70)</cell>
+          <cell />
+          <cell />
+        </row>
+      </tabular>
+      <p>
+        For a general interpretation of grade letters and how they are designed to reflect your understanding of the material and preparedness for future courses, see <xref ref="univ-grading" />.
+      </p>
+</subsection>

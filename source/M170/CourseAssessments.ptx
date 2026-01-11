@@ -1,0 +1,76 @@
+<subsection xml:id="course-assessments-170">
+  <title>Course Assessments</title>
+
+  <introduction>
+    <p>
+      Your final grade in this course will be based on your demonstrated understanding of the course learning outcomes, as shown through a variety of assessments. The table below shows each assessment type along with its weight toward your final grade. Descriptions for each assessment follow the table.
+    </p>
+
+    <tabular>
+      <col width="17%" />
+      <col width="10%" />
+      <col width="65%" />
+      <row header="yes" bottom="major">
+        <cell halign="left"><p>Assessment</p></cell>
+        <cell halign="center"><p>Weight</p></cell>
+        <cell halign="left"><p>Description</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p>Class Attendance</p></cell>
+        <cell halign="center">10%</cell>
+        <cell halign="left"><p>Class sessions will require active participation. Attendance is required and incorporated into your course grade.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p>Weekly(ish) Reports</p></cell>
+        <cell halign="center">50%</cell>
+        <cell halign="left"><p>Short technical reports on work done in and out of class. I expect these will be assigned each 2-3 class periods.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p>Group Participation</p></cell>
+        <cell halign="center">10%</cell>
+        <cell halign="left"><p>Active participation and engagement in class group tasks.</p></cell>
+      </row>
+      <row bottom="minor">
+        <cell halign="left"><p>Final Project</p></cell>
+        <cell halign="center">30%</cell>
+        <cell halign="left"><p>Algorithmic Art project using OpenProcessing.org. Full requirements will be posted 3-4 weeks before finals.</p></cell>
+      </row>
+<!--      <row bottom="minor">
+        <cell halign="left"><p><xref ref="quizzes" text="custom">Quizzes (5)</xref></p></cell>
+        <cell halign="center">20%</cell>
+        <cell halign="left"><p>In-class quizzes on recent material. Your lowest score will be dropped.</p></cell>
+      </row>
+-->
+<!--
+      <row bottom="minor">
+        <cell halign="left"><p><xref ref="exams" text="custom">Exams (3)</xref></p></cell>
+        <cell halign="center">40%</cell>
+        <cell halign="left"><p>(17% + 13% + 10%) Chapter-based exams covering material from class, practice problems, and quizzes.</p></cell>
+      </row>
+-->
+    </tabular>
+
+    <p>
+      <alert>Assessments in this class will be focused on developing knowledge and habits for success in computational thinking and mathematics.</alert>
+      In real-world problem solving—especially in STEM—understanding the process is often more important than getting the "right" number.
+      That is why this class will focus on process-thinking and developing strategies for success more often than short assignments with a "right" answer.
+      Often, there will be many "right" ways to approach a problem, and being will to explore, question, and communicate your own process will be
+      a large component of this course.
+    </p>
+
+    <p>
+      My goal is to help you build both confidence and competence in mathematical and computational thinking.
+      These are lifelong skills with value across all scientific and technical fields.
+    </p>
+  </introduction>
+
+  <!--
+  <subsubsection xml:id="foundations1">
+    <title>Foundations Assessment 1</title>
+    <p>
+      This is a take-home quiz. You may use resources such as your textbook, tutoring services, office hours, or group study. It will be handed out on the first day of class and is due on Thursday of the first week.
+    </p>
+  </subsubsection>
+-->
+
+</subsection>

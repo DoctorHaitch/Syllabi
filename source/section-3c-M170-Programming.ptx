@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<section xml:id="section-3c" xmlns:xi="http://www.w3.org/2001/XInclude">
+  <title>MATH170 - Introduction to Mathematical Software Programming</title>
+  <introduction>
+    <p>
+      This course introduces students to computational thinking in mathematics and the basics of computer programming.
+    </p>
+  </introduction>
+
+  <xi:include href="./M170/170Outline.ptx" /> <!-- Course Outline -->
+  <xi:include href="./M170/Prereqs.ptx" /> <!-- Prerequisite Knowledge -->
+  <xi:include href="./M170/LearningOutcomes.ptx" /> <!-- Prerequisite Knowledge -->
+  <xi:include href="./M170/CourseAssessments.ptx" /> <!-- Course Assessments -->
+  <xi:include href="./M170/CourseGrades.ptx" /> <!-- Course Grades -->
+</section>
+
+
+
+<!-- 
+\noindent\underline{\textbf{Textbooks and Resources}}:
+
+The books of Bernd G\"{a}rtner and Jiri Matou\{u}sek books below.
+
+\begin{enumerate}
+  \item Ji\u r\'i Matou\u sek and Bernd G\"artner, Understanding and Using Linear Programming, Springer 2007.
+  \item Ji\u r\'i Matou\u sek and Bernd G\"artner, Approximation Algorithms and Semidefinite Programming, Springer 2012. (Available freely through the library as a PDF)
+\end{enumerate}
+
+\noindent
+Other resources are
+
+\begin{itemize}
+  \item Va\v sek Chv\' atal \emph{Linear programming} A Series of Books in the Mathematical Sciences. W. H. Freeman and Company, New York, 1983. xiii+478 pp. ISBN: 0-7167-1195-8; 0-7167-1587-2
+  \item A. Schrijver \emph{Theory of linear and integer programming}. Wiley-Interscience Series in Discrete Mathematics. A Wiley-Interscience Publication. John Wiley \& Sons, Ltd., Chichester, 1986. xii+471 pp. ISBN: 0-471-90854-1
+  \item L. Lov\'a sz \emph{Semidefinite programs and combinatorial optimization} Recent advances in algorithms and combinatorics, 137–194, CMS Books Math./Ouvrages Math. SMC, 11, Springer, New York, 2003.
+  \item The lecture notes of Monique Laurent and Frank Vallentin: (Updated version posted to D2L site).
+  \item The lecture notes of Ryan O’Donnell:
+  
+  \url{http://www.cs.cmu.edu/afs/cs.cmu.edu/academic/class/15859-f11/www/}
+  
+  \item The lecture notes of Bill Martin:
+  
+  \url{http://users.wpi.edu/~martin/RESEARCH/CIMPA/}
+\end{itemize}
+
+\vspace{1em}
+
+
+\noindent\underline{\textbf{Course Grading Scheme}}:
+
+55/15/15/15, Ungrading, Exam 1, Final Exam, Project
+-->

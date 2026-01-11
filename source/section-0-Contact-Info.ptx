@@ -35,16 +35,8 @@
     <title>Drop-In Student Support Hours</title>
     <tabular>
       <row>
-        <cell halign="right">Mondays:</cell>
-        <cell halign="left">11:30am-12:50pm</cell>
-      </row>
-      <row>
-        <cell halign="right">Tuesday:</cell>
-        <cell halign="left">9:00-9:50am</cell>
-      </row>
-      <row>
-        <cell halign="right">Fridays:</cell>
-        <cell halign="left">9:00-9:50am</cell>
+        <cell halign="right">TBD:</cell>
+        <cell halign="left">After first-week survey.</cell>
       </row>
     </tabular>
   </table>
@@ -52,16 +44,8 @@
     <title>Email Student Support Hours</title>
     <tabular>
       <row>
-        <cell halign="right">Mondays:</cell>
-        <cell halign="left">9:00-9:50am</cell>
-      </row>
-      <row>
-        <cell halign="right">Thursdays:</cell>
-        <cell halign="left">9:00-9:50am</cell>
-      </row>
-      <row>
-        <cell halign="right">Fridays:</cell>
-        <cell halign="left">1:00-1:50pm</cell>
+        <cell halign="right">TBD:</cell>
+        <cell halign="left">After first-week survey.</cell>
       </row>
     </tabular>
   </table>  
