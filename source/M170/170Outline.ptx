@@ -1,7 +1,20 @@
 <subsection>
     <title>Course Outline</title>
     <p>
-      Roughly speaking, our course will be organized into two sections. An introduction to computational thinking using Microsoft Excel which will last 4-6 weeks, and an introduction to Programming through Coordinate Geometry using OpenProcessing.org (note, we are waiting on approval from IT for use of this platform, so the plan may change depending on the status of IT's review).
+      Roughly speaking, our course will be organized into two sections. The first will be an introduction to computational thinking using Mathworks MATLAB and Microsoft Excel which will last most of the first half of the semester, and an introduction to Programming through Coordinate Geometry using OpenProcessing.org (note, we are waiting on approval from IT for use of this platform, so the plan may change depending on the status of IT's review).
+    </p>
+    <p>
+        A more detailed (but tentative) schedule is provided here:
+        <ol marker="(Week 1)">
+            <li>Introduction to MATLAB</li>
+            <li>Creating and Manipulating Vectors in MATLAB</li>
+            <li>Visualizing Iterations in Excel</li>
+            <li>Numerical Integration Part 1</li>
+            <li>Numerical Integration Part 2</li>
+            <li>Monte Carlo Simulations</li>
+            <li>Conditional Statements</li>
+            <li>Introduction to OpenProcessing.org (contigent on approval by IT, otherwise we will have to take the course in another direction)</li>
+        </ol>
     </p>
     <remark>
         <p>
