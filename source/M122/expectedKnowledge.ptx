@@ -16,7 +16,7 @@
     </p>
 
     <p>
-      The <alert>purpose</alert> of this list is not to teach you the concepts from scratch.  
+      The <alert>purpose</alert> of this list is not to teach you the concepts from scratch (nor the purpose of Calculus II).  
       Rather, it serves as a comprehensive reminder of the topics you’ve already studied and will need to use fluently in Calculus II.  
       Your textbook, online resources, and other references will likely <em>assume</em> you know these topics, which means they often won’t be explicitly explained in problems or solutions—even those found online.  
       This list provides the names and brief descriptions of key concepts to help you identify any gaps in your understanding.  
@@ -51,15 +51,15 @@
   <subsubsection xml:id="algebra">
     <title>Algebra</title>
     <ol>
-      <li><p>Understand the difference between a mathematical function and a mathematical expression</p></li>
-      <li><p>How to find the distance between two points on a number line</p></li>
-      <li><p>How to solve for unknowns, regardless of the symbol representing it</p></li>
+      <li><p>Understand the difference between a mathematical equation and a mathematical expression. How are these different from mathematical functions?</p></li>
+      <li><p>How to find the distance between two points on a number line.</p></li>
+      <li><p>How to solve for unknowns, regardless of the symbol representing it.</p></li>
       <li><p>How to solve rational and root functions (and know what extraneous solutions are)</p></li>
       <li>
         <p>
-            How to solve systems of equations for multiple unknowns
+            How to solve systems of equations for multiple unknowns.
         <ol>
-          <li><p>Method of Elimination or Substitution (both work, choose your favorite, knowing both is even better)</p></li>
+          <li><p>Method of Elimination or Substitution (both work, choose your favorite, knowing both is even better).</p></li>
         </ol>
         </p>
       </li>
