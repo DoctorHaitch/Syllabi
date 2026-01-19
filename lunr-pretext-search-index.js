@@ -16,7 +16,7 @@ var ptx_lunr_docs = [
   "type": "Section",
   "number": "1",
   "title": "Contact Information",
-  "body": " Contact Information      Professor:  Kris Hollingsworth, Ph.D (Dr. )    Preferred Pronouns:  They\/Them    Office:  Wissink Hall (WH) 253    Email:  kristopher (dot) hollingsworth [at] mnsu (dot) edu    Phone:  507.389.6505         Drop-In Student Support Hours    TBD:  After first-week survey.      Email Student Support Hours    TBD:  After first-week survey.       Some effective ways use student support hours:  Get help on assigned homework problems.  Seek clarification on material presented during class.  Get academic\/career advice.  Discuss connections between current material and material from other courses.  Get advice on time management or effective study methods for the course.  For more detailed advice on how to make the most out of time in office hours, see .   E-Mail Template   Below is a sample e-mail template you may use when requesting help on specific problems or topics. The example is written in the context of Math 122 (Calculus II), but the same structure and level of detail are appropriate for nearly any course. In general, the more clearly you explain what you have already tried and where you are stuck, the more quickly I can provide focused and useful feedback during the email support hours listed above.     Example of a helpful email:   Dear Dr. H,  I am a student in your Math 122 (Calculus II) course, and I am currently struggling with (Learning Problem \/ Class Example) related to a specific topic (e.g., integration by parts).  Example 1: I attempted the problem by (brief description of the work you tried), but I believe there may be an error in (specific step or assumption).  Example 2: I understand that the general steps for this type of problem are (brief outline of the method), but I am getting stuck at (specific step) on several problems. For instance, in problem (number), I am unsure how to proceed after obtaining (previous result).  Could you please provide clarification on this problem, or on this type of problem more generally?  (Thank you\/Sincerely,)  (Your name)     Example of an unhelpful email (too vague or broad to address efficiently):   Hi,  I don’t understand integration by parts. Can you explain it?  Thanks    "
+  "body": " Contact Information      Professor:  Kris Hollingsworth, Ph.D (Dr. )    Preferred Pronouns:  They\/Them    Office:  Wissink Hall (WH) 253    Email:  kristopher (dot) hollingsworth [at] mnsu (dot) edu    Phone:  507.389.6505         Drop-In Student Support Hours    Monday:  1:00-1:50pm.    Thursday:  2:00-2:50pm.    Friday:  11:00-11:50am.      Email Student Support Hours    Mon, Tue, Thu, Fri:  9:00-9:50am.       Some effective ways use student support hours:  Get help on assigned homework problems.  Seek clarification on material presented during class.  Get academic\/career advice.  Discuss connections between current material and material from other courses.  Get advice on time management or effective study methods for the course.  For more detailed advice on how to make the most out of time in office hours, see .   E-Mail Template   Below is a sample e-mail template you may use when requesting help on specific problems or topics. The example is written in the context of Math 122 (Calculus II), but the same structure and level of detail are appropriate for nearly any course. In general, the more clearly you explain what you have already tried and where you are stuck, the more quickly I can provide focused and useful feedback during the email support hours listed above.     Example of a helpful email:   Dear Dr. H,  I am a student in your Math 122 (Calculus II) course, and I am currently struggling with (Learning Problem \/ Class Example) related to a specific topic (e.g., integration by parts).  Example 1: I attempted the problem by (brief description of the work you tried), but I believe there may be an error in (specific step or assumption).  Example 2: I understand that the general steps for this type of problem are (brief outline of the method), but I am getting stuck at (specific step) on several problems. For instance, in problem (number), I am unsure how to proceed after obtaining (previous result).  Could you please provide clarification on this problem, or on this type of problem more generally?  (Thank you\/Sincerely,)  (Your name)     Example of an unhelpful email (too vague or broad to address efficiently):   Hi,  I don’t understand integration by parts. Can you explain it?  Thanks    "
 },
 {
   "id": "section-0-2-1",
@@ -34,7 +34,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.2",
   "title": "Drop-In Student Support Hours",
-  "body": " Drop-In Student Support Hours    TBD:  After first-week survey.    "
+  "body": " Drop-In Student Support Hours    Monday:  1:00-1:50pm.    Thursday:  2:00-2:50pm.    Friday:  11:00-11:50am.    "
 },
 {
   "id": "email-office-hours-schedule",
@@ -43,7 +43,7 @@ var ptx_lunr_docs = [
   "type": "Table",
   "number": "1.3",
   "title": "Email Student Support Hours",
-  "body": " Email Student Support Hours    TBD:  After first-week survey.    "
+  "body": " Email Student Support Hours    Mon, Tue, Thu, Fri:  9:00-9:50am.    "
 },
 {
   "id": "section-2",
